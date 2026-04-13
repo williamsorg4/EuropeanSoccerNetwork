@@ -1,8 +1,15 @@
 library(tidyverse)
 library(igraph)
+library(sf)
 
+# Load data -----
 transfers.euro <- readRDS("~/R/EuropeanSoccerNetwork/Data/transfers.euro.rds")
+dist_matrix <- readRDS("~/R/EuropeanSoccerNetwork/Data/dist_matrix.rds")
+nodedataexternal <- readRDS("~/R/EuropeanSoccerNetwork/Data/nodedataexternal.rds")
+teamLeagues <- readRDS("~/R/EuropeanSoccerNetwork/Data/teamLeagues.rds")
 
+
+# Create Graph file -----
 edges <- transfers.euro %>%
   group_by(from.id, to.id) %>%
   summarise(
@@ -15,13 +22,23 @@ edges <- transfers.euro %>%
 
 
 nodes <- teamLeagues %>% 
+  inner_join(nodedataexternal) %>% 
   rename(id = teamid,
-         name = team) %>% 
-  select(id, name, league)
+         name = team,
+         ClubMV = totMarketVal) %>% 
+  select(id, everything())
 
 
 g <- graph_from_data_frame(edges, vertices = nodes, directed = TRUE)
 
+write_graph(g, "Data/euro_transfers.graphml", format = "graphml")
 
-write_graph(g, "euro_transfers.graphml", format = "graphml")
+league_matrix <- outer(nodes$league, nodes$league, FUN = "==") * 1
+rownames(league_matrix) <- nodes$id
+colnames(league_matrix) <- nodes$id
 
+saveRDS(league_matrix, "Data/league_matrix.rds")
+
+
+
+save(g, league_matrix, dist_matrix, file = "Data/allData.RData")

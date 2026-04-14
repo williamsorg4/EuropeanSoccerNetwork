@@ -24,8 +24,8 @@ edges <- transfers.euro %>%
 nodes <- teamLeagues %>% 
   inner_join(nodedataexternal) %>% 
   rename(id = teamid,
-         name = team,
-         ClubMV = totMarketVal) %>% 
+         club = team,
+         clubMV = totMarketVal) %>% 
   select(id, everything())
 
 

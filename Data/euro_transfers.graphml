@@ -5,1715 +5,1959 @@
          http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
 <!-- Created by igraph -->
   <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_club" for="node" attr.name="club" attr.type="string"/>
   <key id="v_league" for="node" attr.name="league" attr.type="string"/>
   <key id="v_avgPts" for="node" attr.name="avgPts" attr.type="double"/>
   <key id="v_logo" for="node" attr.name="logo" attr.type="string"/>
-  <key id="v_ClubMV" for="node" attr.name="ClubMV" attr.type="double"/>
+  <key id="v_clubMV" for="node" attr.name="clubMV" attr.type="double"/>
   <key id="e_total.fee" for="edge" attr.name="total.fee" attr.type="double"/>
   <key id="e_num.transfers" for="edge" attr.name="num.transfers" attr.type="double"/>
   <key id="e_mean.age" for="edge" attr.name="mean.age" attr.type="double"/>
   <key id="e_total.MV" for="edge" attr.name="total.MV" attr.type="double"/>
   <graph id="G" edgedefault="directed">
     <node id="n0">
-      <data key="v_name">Arsenal FC</data>
+      <data key="v_name">11</data>
+      <data key="v_club">Arsenal FC</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">79.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/11.png?lm=1489787850</data>
-      <data key="v_ClubMV">1230</data>
+      <data key="v_clubMV">1230</data>
     </node>
     <node id="n1">
-      <data key="v_name">Aston Villa</data>
+      <data key="v_name">405</data>
+      <data key="v_club">Aston Villa</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">62.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/405_1717155946.png?lm=1717155946</data>
-      <data key="v_ClubMV">547.5</data>
+      <data key="v_clubMV">547.5</data>
     </node>
     <node id="n2">
-      <data key="v_name">AFC Bournemouth</data>
+      <data key="v_name">989</data>
+      <data key="v_club">AFC Bournemouth</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">47</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/989.png?lm=1457991811</data>
-      <data key="v_ClubMV">507.1</data>
+      <data key="v_clubMV">507.1</data>
     </node>
     <node id="n3">
-      <data key="v_name">Brentford FC</data>
+      <data key="v_name">1148</data>
+      <data key="v_club">Brentford FC</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">50.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1148.png?lm=1625150543</data>
-      <data key="v_ClubMV">470.4</data>
+      <data key="v_clubMV">470.4</data>
     </node>
     <node id="n4">
-      <data key="v_name">Brighton &amp; Hove Albion</data>
+      <data key="v_name">1237</data>
+      <data key="v_club">Brighton &amp; Hove Albion</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">54.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1237.png?lm=1492718902</data>
-      <data key="v_ClubMV">494</data>
+      <data key="v_clubMV">494</data>
     </node>
     <node id="n5">
-      <data key="v_name">Chelsea FC</data>
+      <data key="v_name">631</data>
+      <data key="v_club">Chelsea FC</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">56</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/631.png?lm=1682435911</data>
-      <data key="v_ClubMV">1160</data>
+      <data key="v_clubMV">1160</data>
     </node>
     <node id="n6">
-      <data key="v_name">Crystal Palace</data>
+      <data key="v_name">873</data>
+      <data key="v_club">Crystal Palace</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">47.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/873.png?lm=1457723287</data>
-      <data key="v_ClubMV">541.3</data>
+      <data key="v_clubMV">541.3</data>
     </node>
     <node id="n7">
-      <data key="v_name">Everton FC</data>
+      <data key="v_name">29</data>
+      <data key="v_club">Everton FC</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">42.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/29.png?lm=1445949846</data>
-      <data key="v_ClubMV">450.45</data>
+      <data key="v_clubMV">450.45</data>
     </node>
     <node id="n8">
-      <data key="v_name">Fulham FC</data>
+      <data key="v_name">931</data>
+      <data key="v_club">Fulham FC</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">49.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/931.png?lm=1556831687</data>
-      <data key="v_ClubMV">386.95</data>
+      <data key="v_clubMV">386.95</data>
     </node>
     <node id="n9">
-      <data key="v_name">Leeds United</data>
+      <data key="v_name">399</data>
+      <data key="v_club">Leeds United</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">33.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/399.png?lm=1645652224</data>
-      <data key="v_ClubMV">346.03</data>
+      <data key="v_clubMV">346.03</data>
     </node>
     <node id="n10">
-      <data key="v_name">Leicester City</data>
+      <data key="v_name">1003</data>
+      <data key="v_club">Leicester City</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">29.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1003.png?lm=1472229265</data>
-      <data key="v_ClubMV">145.15</data>
+      <data key="v_clubMV">145.15</data>
     </node>
     <node id="n11">
-      <data key="v_name">Liverpool FC</data>
+      <data key="v_name">31</data>
+      <data key="v_club">Liverpool FC</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">71.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/31_1727777132.png?lm=1727777132</data>
-      <data key="v_ClubMV">1020</data>
+      <data key="v_clubMV">1020</data>
     </node>
     <node id="n12">
-      <data key="v_name">Manchester City</data>
+      <data key="v_name">281</data>
+      <data key="v_club">Manchester City</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">78.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/281.png?lm=1467356331</data>
-      <data key="v_ClubMV">1310</data>
+      <data key="v_clubMV">1310</data>
     </node>
     <node id="n13">
-      <data key="v_name">Manchester United</data>
+      <data key="v_name">985</data>
+      <data key="v_club">Manchester United</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">58</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/985.png?lm=1457975903</data>
-      <data key="v_ClubMV">747.15</data>
+      <data key="v_clubMV">747.15</data>
     </node>
     <node id="n14">
-      <data key="v_name">Newcastle United</data>
+      <data key="v_name">762</data>
+      <data key="v_club">Newcastle United</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">59.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/762.png?lm=1472921161</data>
-      <data key="v_ClubMV">708.25</data>
+      <data key="v_clubMV">708.25</data>
     </node>
     <node id="n15">
-      <data key="v_name">Nottingham Forest</data>
+      <data key="v_name">703</data>
+      <data key="v_club">Nottingham Forest</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">42</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/703.png?lm=1598890289</data>
-      <data key="v_ClubMV">568</data>
+      <data key="v_clubMV">568</data>
     </node>
     <node id="n16">
-      <data key="v_name">Southampton FC</data>
+      <data key="v_name">180</data>
+      <data key="v_club">Southampton FC</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">18.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/180.png?lm=1444560086</data>
-      <data key="v_ClubMV">157.6</data>
+      <data key="v_clubMV">157.6</data>
     </node>
     <node id="n17">
-      <data key="v_name">Tottenham Hotspur</data>
+      <data key="v_name">148</data>
+      <data key="v_club">Tottenham Hotspur</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">48.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/148_1732012045.png?lm=1732012045</data>
-      <data key="v_ClubMV">802.5</data>
+      <data key="v_clubMV">802.5</data>
     </node>
     <node id="n18">
-      <data key="v_name">West Ham United</data>
+      <data key="v_name">379</data>
+      <data key="v_club">West Ham United</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">41.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/379.png?lm=1464675260</data>
-      <data key="v_ClubMV">362.95</data>
+      <data key="v_clubMV">362.95</data>
     </node>
     <node id="n19">
-      <data key="v_name">Wolverhampton Wanderers</data>
+      <data key="v_name">543</data>
+      <data key="v_club">Wolverhampton Wanderers</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">36.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/543.png?lm=1467496784</data>
-      <data key="v_ClubMV">277.1</data>
+      <data key="v_clubMV">277.1</data>
     </node>
     <node id="n20">
-      <data key="v_name">Burnley FC</data>
+      <data key="v_name">1132</data>
+      <data key="v_club">Burnley FC</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">22</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1132.png?lm=1686818840</data>
-      <data key="v_ClubMV">252.65</data>
+      <data key="v_clubMV">252.65</data>
     </node>
     <node id="n21">
-      <data key="v_name">Luton Town</data>
+      <data key="v_name">1031</data>
+      <data key="v_club">Luton Town</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">26</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1031.png?lm=1457723228</data>
-      <data key="v_ClubMV">29.08</data>
+      <data key="v_clubMV">29.08</data>
     </node>
     <node id="n22">
-      <data key="v_name">Sheffield United</data>
+      <data key="v_name">350</data>
+      <data key="v_club">Sheffield United</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">16</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/350.png?lm=1409254138</data>
-      <data key="v_ClubMV">132.5</data>
+      <data key="v_clubMV">132.5</data>
     </node>
     <node id="n23">
-      <data key="v_name">Ipswich Town</data>
+      <data key="v_name">677</data>
+      <data key="v_club">Ipswich Town</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">22</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/677.png?lm=1407655249</data>
-      <data key="v_ClubMV">198.65</data>
+      <data key="v_clubMV">198.65</data>
     </node>
     <node id="n24">
-      <data key="v_name">Sunderland AFC</data>
+      <data key="v_name">289</data>
+      <data key="v_club">Sunderland AFC</data>
       <data key="v_league">premier-league</data>
       <data key="v_avgPts">46</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/289.png?lm=1485645633</data>
-      <data key="v_ClubMV">381.95</data>
+      <data key="v_clubMV">381.95</data>
     </node>
     <node id="n25">
-      <data key="v_name">Bayern Munich</data>
+      <data key="v_name">27</data>
+      <data key="v_club">Bayern Munich</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">75.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/27_1498251266.png?lm=1498251266</data>
-      <data key="v_ClubMV">965.95</data>
+      <data key="v_clubMV">965.95</data>
     </node>
     <node id="n26">
-      <data key="v_name">Borussia Dortmund</data>
+      <data key="v_name">16</data>
+      <data key="v_club">Borussia Dortmund</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">63.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/16.png?lm=1396275280</data>
-      <data key="v_ClubMV">498.4</data>
+      <data key="v_clubMV">498.4</data>
     </node>
     <node id="n27">
-      <data key="v_name">Bayer 04 Leverkusen</data>
+      <data key="v_name">15</data>
+      <data key="v_club">Bayer 04 Leverkusen</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">65.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/15.png?lm=1710156317</data>
-      <data key="v_ClubMV">449.75</data>
+      <data key="v_clubMV">449.75</data>
     </node>
     <node id="n28">
-      <data key="v_name">RB Leipzig</data>
+      <data key="v_name">23826</data>
+      <data key="v_club">RB Leipzig</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">59.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/23826.png?lm=1619431624</data>
-      <data key="v_ClubMV">471.25</data>
+      <data key="v_clubMV">471.25</data>
     </node>
     <node id="n29">
-      <data key="v_name">1.FC Union Berlin</data>
+      <data key="v_name">89</data>
+      <data key="v_club">1.FC Union Berlin</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">41.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/89.png?lm=1402956210</data>
-      <data key="v_ClubMV">124.85</data>
+      <data key="v_clubMV">124.85</data>
     </node>
     <node id="n30">
-      <data key="v_name">SC Freiburg</data>
+      <data key="v_name">60</data>
+      <data key="v_club">SC Freiburg</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">49</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/60.png?lm=1517249279</data>
-      <data key="v_ClubMV">191</data>
+      <data key="v_clubMV">191</data>
     </node>
     <node id="n31">
-      <data key="v_name">1.FC Köln</data>
+      <data key="v_name">3</data>
+      <data key="v_club">1.FC Köln</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">33</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3.png?lm=1656580823</data>
-      <data key="v_ClubMV">136.85</data>
+      <data key="v_clubMV">136.85</data>
     </node>
     <node id="n32">
-      <data key="v_name">1.FSV Mainz 05</data>
+      <data key="v_name">39</data>
+      <data key="v_club">1.FSV Mainz 05</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">41.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/39.png?lm=1564748880</data>
-      <data key="v_ClubMV">138.7</data>
+      <data key="v_clubMV">138.7</data>
     </node>
     <node id="n33">
-      <data key="v_name">TSG 1899 Hoffenheim</data>
+      <data key="v_name">533</data>
+      <data key="v_club">TSG 1899 Hoffenheim</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">41.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/533.png?lm=1675591766</data>
-      <data key="v_ClubMV">246.1</data>
+      <data key="v_clubMV">246.1</data>
     </node>
     <node id="n34">
-      <data key="v_name">Borussia Mönchengladbach</data>
+      <data key="v_name">18</data>
+      <data key="v_club">Borussia Mönchengladbach</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">38</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/18.png?lm=1656585796</data>
-      <data key="v_ClubMV">149.3</data>
+      <data key="v_clubMV">149.3</data>
     </node>
     <node id="n35">
-      <data key="v_name">Eintracht Frankfurt</data>
+      <data key="v_name">24</data>
+      <data key="v_club">Eintracht Frankfurt</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">49.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/24.png?lm=1700074979</data>
-      <data key="v_ClubMV">388.55</data>
+      <data key="v_clubMV">388.55</data>
     </node>
     <node id="n36">
-      <data key="v_name">VfL Wolfsburg</data>
+      <data key="v_name">82</data>
+      <data key="v_club">VfL Wolfsburg</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">37.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/82.png?lm=1503060755</data>
-      <data key="v_ClubMV">234.6</data>
+      <data key="v_clubMV">234.6</data>
     </node>
     <node id="n37">
-      <data key="v_name">VfL Bochum</data>
+      <data key="v_name">80</data>
+      <data key="v_club">VfL Bochum</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/80.png?lm=1656583090</data>
-      <data key="v_ClubMV">47.95</data>
+      <data key="v_clubMV">47.95</data>
     </node>
     <node id="n38">
-      <data key="v_name">FC Augsburg</data>
+      <data key="v_name">167</data>
+      <data key="v_club">FC Augsburg</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">37.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/167.png?lm=1656582897</data>
-      <data key="v_ClubMV">159.15</data>
+      <data key="v_clubMV">159.15</data>
     </node>
     <node id="n39">
-      <data key="v_name">VfB Stuttgart</data>
+      <data key="v_name">79</data>
+      <data key="v_club">VfB Stuttgart</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">53</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/79.png?lm=1680587427</data>
-      <data key="v_ClubMV">383.1</data>
+      <data key="v_clubMV">383.1</data>
     </node>
     <node id="n40">
-      <data key="v_name">Hertha BSC</data>
+      <data key="v_name">44</data>
+      <data key="v_club">Hertha BSC</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">29</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/44.png?lm=1656580875</data>
-      <data key="v_ClubMV">62.63</data>
+      <data key="v_clubMV">62.63</data>
     </node>
     <node id="n41">
-      <data key="v_name">FC Schalke 04</data>
+      <data key="v_name">33</data>
+      <data key="v_club">FC Schalke 04</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/33.png?lm=1656580846</data>
-      <data key="v_ClubMV">45.23</data>
+      <data key="v_clubMV">45.23</data>
     </node>
     <node id="n42">
-      <data key="v_name">SV Werder Bremen</data>
+      <data key="v_name">86</data>
+      <data key="v_club">SV Werder Bremen</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">39.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/86.png?lm=1403082298</data>
-      <data key="v_ClubMV">176.3</data>
+      <data key="v_clubMV">176.3</data>
     </node>
     <node id="n43">
-      <data key="v_name">1.FC Heidenheim 1846</data>
+      <data key="v_name">2036</data>
+      <data key="v_club">1.FC Heidenheim 1846</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">30</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2036.png?lm=1685457789</data>
-      <data key="v_ClubMV">64.05</data>
+      <data key="v_clubMV">64.05</data>
     </node>
     <node id="n44">
-      <data key="v_name">SV Darmstadt 98</data>
+      <data key="v_name">105</data>
+      <data key="v_club">SV Darmstadt 98</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">17</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/105.png?lm=1501493517</data>
-      <data key="v_ClubMV">32.9</data>
+      <data key="v_clubMV">32.9</data>
     </node>
     <node id="n45">
-      <data key="v_name">FC St. Pauli</data>
+      <data key="v_name">35</data>
+      <data key="v_club">FC St. Pauli</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">28.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/35.png?lm=1521036360</data>
-      <data key="v_ClubMV">69.65</data>
+      <data key="v_clubMV">69.65</data>
     </node>
     <node id="n46">
-      <data key="v_name">Holstein Kiel</data>
+      <data key="v_name">269</data>
+      <data key="v_club">Holstein Kiel</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/269.png?lm=1740400529</data>
-      <data key="v_ClubMV">32.6</data>
+      <data key="v_clubMV">32.6</data>
     </node>
     <node id="n47">
-      <data key="v_name">Hamburger SV</data>
+      <data key="v_name">41</data>
+      <data key="v_club">Hamburger SV</data>
       <data key="v_league">bundesliga</data>
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274</data>
-      <data key="v_ClubMV">168.78</data>
+      <data key="v_clubMV">168.78</data>
     </node>
     <node id="n48">
-      <data key="v_name">Paris Saint-Germain</data>
+      <data key="v_name">583</data>
+      <data key="v_club">Paris Saint-Germain</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">77</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/583_1522053508.png?lm=1522053508</data>
-      <data key="v_ClubMV">1210</data>
+      <data key="v_clubMV">1210</data>
     </node>
     <node id="n49">
-      <data key="v_name">Olympique Marseille</data>
+      <data key="v_name">244</data>
+      <data key="v_club">Olympique Marseille</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">60</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/244_1775674950.png?lm=1775674950</data>
-      <data key="v_ClubMV">386</data>
+      <data key="v_clubMV">386</data>
     </node>
     <node id="n50">
-      <data key="v_name">AS Monaco</data>
+      <data key="v_name">162</data>
+      <data key="v_club">AS Monaco</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">60.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/162.png?lm=1654781919</data>
-      <data key="v_ClubMV">391.55</data>
+      <data key="v_clubMV">391.55</data>
     </node>
     <node id="n51">
-      <data key="v_name">Stade Rennais FC</data>
+      <data key="v_name">273</data>
+      <data key="v_club">Stade Rennais FC</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">51.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/273.png?lm=1691503972</data>
-      <data key="v_ClubMV">242.2</data>
+      <data key="v_clubMV">242.2</data>
     </node>
     <node id="n52">
-      <data key="v_name">OGC Nice</data>
+      <data key="v_name">417</data>
+      <data key="v_club">OGC Nice</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">50.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/417.png?lm=1408779490</data>
-      <data key="v_ClubMV">169.1</data>
+      <data key="v_clubMV">169.1</data>
     </node>
     <node id="n53">
-      <data key="v_name">RC Strasbourg Alsace</data>
+      <data key="v_name">667</data>
+      <data key="v_club">RC Strasbourg Alsace</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">44.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/667.png?lm=1664991833</data>
-      <data key="v_ClubMV">361.75</data>
+      <data key="v_clubMV">361.75</data>
     </node>
     <node id="n54">
-      <data key="v_name">RC Lens</data>
+      <data key="v_name">826</data>
+      <data key="v_club">RC Lens</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">61.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/826.png?lm=1595457059</data>
-      <data key="v_ClubMV">193.55</data>
+      <data key="v_clubMV">193.55</data>
     </node>
     <node id="n55">
-      <data key="v_name">Olympique Lyon</data>
+      <data key="v_name">1041</data>
+      <data key="v_club">Olympique Lyon</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">55.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1041.png?lm=1656668172</data>
-      <data key="v_ClubMV">282.55</data>
+      <data key="v_clubMV">282.55</data>
     </node>
     <node id="n56">
-      <data key="v_name">FC Nantes</data>
+      <data key="v_name">995</data>
+      <data key="v_club">FC Nantes</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/995.png?lm=1581355747</data>
-      <data key="v_ClubMV">110.85</data>
+      <data key="v_clubMV">110.85</data>
     </node>
     <node id="n57">
-      <data key="v_name">LOSC Lille</data>
+      <data key="v_name">1082</data>
+      <data key="v_club">LOSC Lille</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">59.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1082.png?lm=1529521041</data>
-      <data key="v_ClubMV">271.5</data>
+      <data key="v_clubMV">271.5</data>
     </node>
     <node id="n58">
-      <data key="v_name">Stade Brestois 29</data>
+      <data key="v_name">3911</data>
+      <data key="v_club">Stade Brestois 29</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">47.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3911_1768834526.png?lm=1768834526</data>
-      <data key="v_ClubMV">88.4</data>
+      <data key="v_clubMV">88.4</data>
     </node>
     <node id="n59">
-      <data key="v_name">Stade Reims</data>
+      <data key="v_name">1421</data>
+      <data key="v_club">Stade Reims</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">43.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1421.png?lm=1592601839</data>
-      <data key="v_ClubMV">93.9</data>
+      <data key="v_clubMV">93.9</data>
     </node>
     <node id="n60">
-      <data key="v_name">Montpellier HSC</data>
+      <data key="v_name">969</data>
+      <data key="v_club">Montpellier HSC</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">35.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/969_1720105245.png?lm=1720105247</data>
-      <data key="v_ClubMV">22.8</data>
+      <data key="v_clubMV">22.8</data>
     </node>
     <node id="n61">
-      <data key="v_name">Angers SCO</data>
+      <data key="v_name">1420</data>
+      <data key="v_club">Angers SCO</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">29</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1420.png?lm=1687525425</data>
-      <data key="v_ClubMV">72.7</data>
+      <data key="v_clubMV">72.7</data>
     </node>
     <node id="n62">
-      <data key="v_name">ESTAC Troyes</data>
+      <data key="v_name">1095</data>
+      <data key="v_club">ESTAC Troyes</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">24</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1095.png?lm=1599945497</data>
-      <data key="v_ClubMV">40.78</data>
+      <data key="v_clubMV">40.78</data>
     </node>
     <node id="n63">
-      <data key="v_name">FC Lorient</data>
+      <data key="v_name">1158</data>
+      <data key="v_club">FC Lorient</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">40.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1158.png?lm=1406642498</data>
-      <data key="v_ClubMV">101.25</data>
+      <data key="v_clubMV">101.25</data>
     </node>
     <node id="n64">
-      <data key="v_name">Clermont Foot 63</data>
+      <data key="v_name">3524</data>
+      <data key="v_club">Clermont Foot 63</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">42</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3524.png?lm=1625739356</data>
-      <data key="v_ClubMV">17.2</data>
+      <data key="v_clubMV">17.2</data>
     </node>
     <node id="n65">
-      <data key="v_name">FC Toulouse</data>
+      <data key="v_name">415</data>
+      <data key="v_club">FC Toulouse</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">42.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/415.png?lm=1740065124</data>
-      <data key="v_ClubMV">146.05</data>
+      <data key="v_clubMV">146.05</data>
     </node>
     <node id="n66">
-      <data key="v_name">AC Ajaccio</data>
+      <data key="v_name">1147</data>
+      <data key="v_club">AC Ajaccio</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">26</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1147.png?lm=1408538965</data>
-      <data key="v_ClubMV">1.23</data>
+      <data key="v_clubMV">1.23</data>
     </node>
     <node id="n67">
-      <data key="v_name">AJ Auxerre</data>
+      <data key="v_name">290</data>
+      <data key="v_club">AJ Auxerre</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">33.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/290.png?lm=1635851977</data>
-      <data key="v_ClubMV">78.55</data>
+      <data key="v_clubMV">78.55</data>
     </node>
     <node id="n68">
-      <data key="v_name">Le Havre AC</data>
+      <data key="v_name">738</data>
+      <data key="v_club">Le Havre AC</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">31.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/738.png?lm=1408780648</data>
-      <data key="v_ClubMV">73</data>
+      <data key="v_clubMV">73</data>
     </node>
     <node id="n69">
-      <data key="v_name">FC Metz</data>
+      <data key="v_name">347</data>
+      <data key="v_club">FC Metz</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">22</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/347.png?lm=1625391843</data>
-      <data key="v_ClubMV">62.9</data>
+      <data key="v_clubMV">62.9</data>
     </node>
     <node id="n70">
-      <data key="v_name">AS Saint-Étienne</data>
+      <data key="v_name">618</data>
+      <data key="v_club">AS Saint-Étienne</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">30</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/618.png?lm=1658260152</data>
-      <data key="v_ClubMV">82.65</data>
+      <data key="v_clubMV">82.65</data>
     </node>
     <node id="n71">
-      <data key="v_name">Paris FC</data>
+      <data key="v_name">10004</data>
+      <data key="v_club">Paris FC</data>
       <data key="v_league">ligue-1</data>
       <data key="v_avgPts">35</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/10004.png?lm=1411995262</data>
-      <data key="v_ClubMV">134.35</data>
+      <data key="v_clubMV">134.35</data>
     </node>
     <node id="n72">
-      <data key="v_name">Real Madrid</data>
+      <data key="v_name">418</data>
+      <data key="v_club">Real Madrid</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">81.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474</data>
-      <data key="v_ClubMV">1340</data>
+      <data key="v_clubMV">1340</data>
     </node>
     <node id="n73">
-      <data key="v_name">FC Barcelona</data>
+      <data key="v_name">131</data>
+      <data key="v_club">FC Barcelona</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">85</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548</data>
-      <data key="v_ClubMV">1170</data>
+      <data key="v_clubMV">1170</data>
     </node>
     <node id="n74">
-      <data key="v_name">Sevilla FC</data>
+      <data key="v_name">368</data>
+      <data key="v_club">Sevilla FC</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">41.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593</data>
-      <data key="v_ClubMV">140.4</data>
+      <data key="v_clubMV">140.4</data>
     </node>
     <node id="n75">
-      <data key="v_name">Atlético de Madrid</data>
+      <data key="v_name">13</data>
+      <data key="v_club">Atlético de Madrid</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">71.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/13_1719403662.png?lm=1719403663</data>
-      <data key="v_ClubMV">587</data>
+      <data key="v_clubMV">587</data>
     </node>
     <node id="n76">
-      <data key="v_name">Real Sociedad</data>
+      <data key="v_name">681</data>
+      <data key="v_club">Real Sociedad</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">54.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530</data>
-      <data key="v_ClubMV">272.7</data>
+      <data key="v_clubMV">272.7</data>
     </node>
     <node id="n77">
-      <data key="v_name">Real Betis Balompié</data>
+      <data key="v_name">150</data>
+      <data key="v_club">Real Betis Balompié</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">55.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526</data>
-      <data key="v_ClubMV">248.8</data>
+      <data key="v_clubMV">248.8</data>
     </node>
     <node id="n78">
-      <data key="v_name">Villarreal CF</data>
+      <data key="v_name">1050</data>
+      <data key="v_club">Villarreal CF</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">62</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310</data>
-      <data key="v_ClubMV">286.3</data>
+      <data key="v_clubMV">286.3</data>
     </node>
     <node id="n79">
-      <data key="v_name">Athletic Bilbao</data>
+      <data key="v_name">621</data>
+      <data key="v_club">Athletic Bilbao</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">56.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038</data>
-      <data key="v_ClubMV">283</data>
+      <data key="v_clubMV">283</data>
     </node>
     <node id="n80">
-      <data key="v_name">Valencia CF</data>
+      <data key="v_name">1049</data>
+      <data key="v_club">Valencia CF</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">43</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320</data>
-      <data key="v_ClubMV">163.6</data>
+      <data key="v_clubMV">163.6</data>
     </node>
     <node id="n81">
-      <data key="v_name">CA Osasuna</data>
+      <data key="v_name">331</data>
+      <data key="v_club">CA Osasuna</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">47.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/331.png?lm=1686070937</data>
-      <data key="v_ClubMV">100.8</data>
+      <data key="v_clubMV">100.8</data>
     </node>
     <node id="n82">
-      <data key="v_name">Elche CF</data>
+      <data key="v_name">1531</data>
+      <data key="v_club">Elche CF</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">28.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1531.png?lm=1421955260</data>
-      <data key="v_ClubMV">85.1</data>
+      <data key="v_clubMV">85.1</data>
     </node>
     <node id="n83">
-      <data key="v_name">Celta de Vigo</data>
+      <data key="v_name">940</data>
+      <data key="v_club">Celta de Vigo</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">45.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406</data>
-      <data key="v_ClubMV">172.9</data>
+      <data key="v_clubMV">172.9</data>
     </node>
     <node id="n84">
-      <data key="v_name">RCD Espanyol Barcelona</data>
+      <data key="v_name">714</data>
+      <data key="v_club">RCD Espanyol Barcelona</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">39</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/714.png?lm=1406966369</data>
-      <data key="v_ClubMV">124.2</data>
+      <data key="v_clubMV">124.2</data>
     </node>
     <node id="n85">
-      <data key="v_name">Rayo Vallecano</data>
+      <data key="v_name">367</data>
+      <data key="v_club">Rayo Vallecano</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">43.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/367.png?lm=1653488445</data>
-      <data key="v_ClubMV">107.3</data>
+      <data key="v_clubMV">107.3</data>
     </node>
     <node id="n86">
-      <data key="v_name">Getafe CF</data>
+      <data key="v_name">3709</data>
+      <data key="v_club">Getafe CF</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">42.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116</data>
-      <data key="v_ClubMV">82.9</data>
+      <data key="v_clubMV">82.9</data>
     </node>
     <node id="n87">
-      <data key="v_name">RCD Mallorca</data>
+      <data key="v_name">237</data>
+      <data key="v_club">RCD Mallorca</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">43</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/237.png?lm=1407484750</data>
-      <data key="v_ClubMV">89</data>
+      <data key="v_clubMV">89</data>
     </node>
     <node id="n88">
-      <data key="v_name">Cádiz CF</data>
+      <data key="v_name">2687</data>
+      <data key="v_club">Cádiz CF</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">37.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2687.png?lm=1683542431</data>
-      <data key="v_ClubMV">22.9</data>
+      <data key="v_clubMV">22.9</data>
     </node>
     <node id="n89">
-      <data key="v_name">UD Almería</data>
+      <data key="v_name">3302</data>
+      <data key="v_club">UD Almería</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3302.png?lm=1736335439</data>
-      <data key="v_ClubMV">50.3</data>
+      <data key="v_clubMV">50.3</data>
     </node>
     <node id="n90">
-      <data key="v_name">Real Valladolid CF</data>
+      <data key="v_name">366</data>
+      <data key="v_club">Real Valladolid CF</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">28</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/366.png?lm=1720163563</data>
-      <data key="v_ClubMV">31.7</data>
+      <data key="v_clubMV">31.7</data>
     </node>
     <node id="n91">
-      <data key="v_name">Girona FC</data>
+      <data key="v_name">12321</data>
+      <data key="v_club">Girona FC</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">52.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718</data>
-      <data key="v_ClubMV">153.2</data>
+      <data key="v_clubMV">153.2</data>
     </node>
     <node id="n92">
-      <data key="v_name">Granada CF</data>
+      <data key="v_name">16795</data>
+      <data key="v_club">Granada CF</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">21</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/16795.png?lm=1724157697</data>
-      <data key="v_ClubMV">22.8</data>
+      <data key="v_clubMV">22.8</data>
     </node>
     <node id="n93">
-      <data key="v_name">UD Las Palmas</data>
+      <data key="v_name">472</data>
+      <data key="v_club">UD Las Palmas</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">36</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/472.png?lm=1407484865</data>
-      <data key="v_ClubMV">45</data>
+      <data key="v_clubMV">45</data>
     </node>
     <node id="n94">
-      <data key="v_name">Deportivo Alavés</data>
+      <data key="v_name">1108</data>
+      <data key="v_club">Deportivo Alavés</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">40.3333333333333</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1108.png?lm=1596131395</data>
-      <data key="v_ClubMV">66.9</data>
+      <data key="v_clubMV">66.9</data>
     </node>
     <node id="n95">
-      <data key="v_name">CD Leganés</data>
+      <data key="v_name">1244</data>
+      <data key="v_club">CD Leganés</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">40</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1244.png?lm=1764600019</data>
-      <data key="v_ClubMV">21.3</data>
+      <data key="v_clubMV">21.3</data>
     </node>
     <node id="n96">
-      <data key="v_name">Levante UD</data>
+      <data key="v_name">3368</data>
+      <data key="v_club">Levante UD</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062</data>
-      <data key="v_ClubMV">86.7</data>
+      <data key="v_clubMV">86.7</data>
     </node>
     <node id="n97">
-      <data key="v_name">Real Oviedo</data>
+      <data key="v_name">2497</data>
+      <data key="v_club">Real Oviedo</data>
       <data key="v_league">laliga</data>
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2497.png?lm=1417193316</data>
-      <data key="v_ClubMV">63.3</data>
+      <data key="v_clubMV">63.3</data>
     </node>
     <node id="n98">
-      <data key="v_name">AC Milan</data>
+      <data key="v_name">5</data>
+      <data key="v_club">AC Milan</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">67.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/5.png?lm=1605166627</data>
-      <data key="v_ClubMV">483.5</data>
+      <data key="v_clubMV">483.5</data>
     </node>
     <node id="n99">
-      <data key="v_name">Inter Milan</data>
+      <data key="v_name">46</data>
+      <data key="v_club">Inter Milan</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">80.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/46.png?lm=1618900989</data>
-      <data key="v_ClubMV">636.3</data>
+      <data key="v_clubMV">636.3</data>
     </node>
     <node id="n100">
-      <data key="v_name">SSC Napoli</data>
+      <data key="v_name">6195</data>
+      <data key="v_club">SSC Napoli</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">72.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/6195_1720450885.png?lm=1720450885</data>
-      <data key="v_ClubMV">417.3</data>
+      <data key="v_clubMV">417.3</data>
     </node>
     <node id="n101">
-      <data key="v_name">Juventus FC</data>
+      <data key="v_name">506</data>
+      <data key="v_club">Juventus FC</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">65.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/506.png?lm=1626441487</data>
-      <data key="v_ClubMV">544.2</data>
+      <data key="v_clubMV">544.2</data>
     </node>
     <node id="n102">
-      <data key="v_name">SS Lazio</data>
+      <data key="v_name">398</data>
+      <data key="v_club">SS Lazio</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">61</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/398.png?lm=1601537785</data>
-      <data key="v_ClubMV">217.55</data>
+      <data key="v_clubMV">217.55</data>
     </node>
     <node id="n103">
-      <data key="v_name">AS Roma</data>
+      <data key="v_name">12</data>
+      <data key="v_club">AS Roma</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">63</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/12.png?lm=1751979202</data>
-      <data key="v_ClubMV">454.5</data>
+      <data key="v_clubMV">454.5</data>
     </node>
     <node id="n104">
-      <data key="v_name">ACF Fiorentina</data>
+      <data key="v_name">430</data>
+      <data key="v_club">ACF Fiorentina</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">54</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/430.png?lm=1722844765</data>
-      <data key="v_ClubMV">243.85</data>
+      <data key="v_clubMV">243.85</data>
     </node>
     <node id="n105">
-      <data key="v_name">Atalanta BC</data>
+      <data key="v_name">800</data>
+      <data key="v_club">Atalanta BC</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">65</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/800.png?lm=1438547428</data>
-      <data key="v_ClubMV">403.1</data>
+      <data key="v_clubMV">403.1</data>
     </node>
     <node id="n106">
-      <data key="v_name">Hellas Verona</data>
+      <data key="v_name">276</data>
+      <data key="v_club">Hellas Verona</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/276.png?lm=1617228746</data>
-      <data key="v_ClubMV">93.53</data>
+      <data key="v_clubMV">93.53</data>
     </node>
     <node id="n107">
-      <data key="v_name">Torino FC</data>
+      <data key="v_name">416</data>
+      <data key="v_club">Torino FC</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">47.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/416.png?lm=1438548174</data>
-      <data key="v_ClubMV">134.9</data>
+      <data key="v_clubMV">134.9</data>
     </node>
     <node id="n108">
-      <data key="v_name">US Sassuolo</data>
+      <data key="v_name">6574</data>
+      <data key="v_club">US Sassuolo</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">39</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/6574.png?lm=1755894334</data>
-      <data key="v_ClubMV">184.1</data>
+      <data key="v_clubMV">184.1</data>
     </node>
     <node id="n109">
-      <data key="v_name">Udinese Calcio</data>
+      <data key="v_name">410</data>
+      <data key="v_club">Udinese Calcio</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">42.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/410.png?lm=1688982584</data>
-      <data key="v_ClubMV">152.55</data>
+      <data key="v_clubMV">152.55</data>
     </node>
     <node id="n110">
-      <data key="v_name">Bologna FC 1909</data>
+      <data key="v_name">1025</data>
+      <data key="v_club">Bologna FC 1909</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">58</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1025.png?lm=1626441324</data>
-      <data key="v_ClubMV">275</data>
+      <data key="v_clubMV">275</data>
     </node>
     <node id="n111">
-      <data key="v_name">FC Empoli</data>
+      <data key="v_name">749</data>
+      <data key="v_club">FC Empoli</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">36.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/749.png?lm=1626441481</data>
-      <data key="v_ClubMV">34.55</data>
+      <data key="v_clubMV">34.55</data>
     </node>
     <node id="n112">
-      <data key="v_name">UC Sampdoria</data>
+      <data key="v_name">1038</data>
+      <data key="v_club">UC Sampdoria</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">19</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1038.png?lm=1520934353</data>
-      <data key="v_ClubMV">41.55</data>
+      <data key="v_clubMV">41.55</data>
     </node>
     <node id="n113">
-      <data key="v_name">Spezia Calcio</data>
+      <data key="v_name">3522</data>
+      <data key="v_club">Spezia Calcio</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3522_1688719361.png?lm=1688719361</data>
-      <data key="v_ClubMV">35.4</data>
+      <data key="v_clubMV">35.4</data>
     </node>
     <node id="n114">
-      <data key="v_name">US Salernitana 1919</data>
+      <data key="v_name">380</data>
+      <data key="v_club">US Salernitana 1919</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">29.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/380.png?lm=1601390035</data>
-      <data key="v_ClubMV">8.8</data>
+      <data key="v_clubMV">8.8</data>
     </node>
     <node id="n115">
-      <data key="v_name">US Lecce</data>
+      <data key="v_name">1005</data>
+      <data key="v_club">US Lecce</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">33.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1005.png?lm=1689169528</data>
-      <data key="v_ClubMV">93.48</data>
+      <data key="v_clubMV">93.48</data>
     </node>
     <node id="n116">
-      <data key="v_name">US Cremonese</data>
+      <data key="v_name">2239</data>
+      <data key="v_club">US Cremonese</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2239.png?lm=1501770762</data>
-      <data key="v_ClubMV">72.2</data>
+      <data key="v_clubMV">72.2</data>
     </node>
     <node id="n117">
-      <data key="v_name">AC Monza</data>
+      <data key="v_name">2919</data>
+      <data key="v_club">AC Monza</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">38.3333333333333</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2919.png?lm=1562072734</data>
-      <data key="v_ClubMV">46.55</data>
+      <data key="v_clubMV">46.55</data>
     </node>
     <node id="n118">
-      <data key="v_name">Frosinone Calcio</data>
+      <data key="v_name">8970</data>
+      <data key="v_club">Frosinone Calcio</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">35</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/8970.png?lm=1438547543</data>
-      <data key="v_ClubMV">40.8</data>
+      <data key="v_clubMV">40.8</data>
     </node>
     <node id="n119">
-      <data key="v_name">Genoa CFC</data>
+      <data key="v_name">252</data>
+      <data key="v_club">Genoa CFC</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">42.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/252.png?lm=1655305880</data>
-      <data key="v_ClubMV">150.6</data>
+      <data key="v_clubMV">150.6</data>
     </node>
     <node id="n120">
-      <data key="v_name">Cagliari Calcio</data>
+      <data key="v_name">1390</data>
+      <data key="v_club">Cagliari Calcio</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">35</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1390.png?lm=1626441409</data>
-      <data key="v_ClubMV">144.9</data>
+      <data key="v_clubMV">144.9</data>
     </node>
     <node id="n121">
-      <data key="v_name">Parma Calcio 1913</data>
+      <data key="v_name">130</data>
+      <data key="v_club">Parma Calcio 1913</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">36</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/130.png?lm=1530945992</data>
-      <data key="v_ClubMV">172.5</data>
+      <data key="v_clubMV">172.5</data>
     </node>
     <node id="n122">
-      <data key="v_name">Como 1907</data>
+      <data key="v_name">1047</data>
+      <data key="v_club">Como 1907</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">53.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1047.png?lm=1565704078</data>
-      <data key="v_ClubMV">351.7</data>
+      <data key="v_clubMV">351.7</data>
     </node>
     <node id="n123">
-      <data key="v_name">Venezia FC</data>
+      <data key="v_name">607</data>
+      <data key="v_club">Venezia FC</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">29</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/607.png?lm=1657392944</data>
-      <data key="v_ClubMV">64.83</data>
+      <data key="v_clubMV">64.83</data>
     </node>
     <node id="n124">
-      <data key="v_name">Pisa Sporting Club</data>
+      <data key="v_name">4172</data>
+      <data key="v_club">Pisa Sporting Club</data>
       <data key="v_league">serie-a</data>
       <data key="v_avgPts">18</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/4172.png?lm=1693294828</data>
-      <data key="v_ClubMV">106.2</data>
+      <data key="v_clubMV">106.2</data>
     </node>
     <node id="n125">
-      <data key="v_name">FC Porto</data>
+      <data key="v_name">720</data>
+      <data key="v_club">FC Porto</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">76</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/720.png?lm=1486310161</data>
-      <data key="v_ClubMV">426.9</data>
+      <data key="v_clubMV">426.9</data>
     </node>
     <node id="n126">
-      <data key="v_name">Sporting CP</data>
+      <data key="v_name">336</data>
+      <data key="v_club">Sporting CP</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">79.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/336.png?lm=1621513752</data>
-      <data key="v_ClubMV">466</data>
+      <data key="v_clubMV">466</data>
     </node>
     <node id="n127">
-      <data key="v_name">SL Benfica</data>
+      <data key="v_name">294</data>
+      <data key="v_club">SL Benfica</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">79</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/294.png?lm=1535908439</data>
-      <data key="v_ClubMV">364.5</data>
+      <data key="v_clubMV">364.5</data>
     </node>
     <node id="n128">
-      <data key="v_name">SC Braga</data>
+      <data key="v_name">1075</data>
+      <data key="v_club">SC Braga</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">66</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1075.png?lm=1432893871</data>
-      <data key="v_ClubMV">154.9</data>
+      <data key="v_clubMV">154.9</data>
     </node>
     <node id="n129">
-      <data key="v_name">Gil Vicente FC</data>
+      <data key="v_name">2424</data>
+      <data key="v_club">Gil Vicente FC</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">38.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2424.png?lm=1624283300</data>
-      <data key="v_ClubMV">36.35</data>
+      <data key="v_clubMV">36.35</data>
     </node>
     <node id="n130">
-      <data key="v_name">Vitória Guimarães SC</data>
+      <data key="v_name">2420</data>
+      <data key="v_club">Vitória Guimarães SC</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">51.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2420.png?lm=1432894021</data>
-      <data key="v_ClubMV">36</data>
+      <data key="v_clubMV">36</data>
     </node>
     <node id="n131">
-      <data key="v_name">CD Santa Clara</data>
+      <data key="v_name">2423</data>
+      <data key="v_club">CD Santa Clara</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">35.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2423_1718909310.png?lm=1718909310</data>
-      <data key="v_ClubMV">33</data>
+      <data key="v_clubMV">33</data>
     </node>
     <node id="n132">
-      <data key="v_name">FC Famalicão</data>
+      <data key="v_name">3329</data>
+      <data key="v_club">FC Famalicão</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">45</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3329.png?lm=1737563329</data>
-      <data key="v_ClubMV">71.9</data>
+      <data key="v_clubMV">71.9</data>
     </node>
     <node id="n133">
-      <data key="v_name">GD Estoril Praia</data>
+      <data key="v_name">1465</data>
+      <data key="v_club">GD Estoril Praia</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">37.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1465.png?lm=1534340702</data>
-      <data key="v_ClubMV">45.7</data>
+      <data key="v_clubMV">45.7</data>
     </node>
     <node id="n134">
-      <data key="v_name">CS Marítimo</data>
+      <data key="v_name">1301</data>
+      <data key="v_club">CS Marítimo</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">26</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1301.png?lm=1656600130</data>
-      <data key="v_ClubMV">10.13</data>
+      <data key="v_clubMV">10.13</data>
     </node>
     <node id="n135">
-      <data key="v_name">FC Paços de Ferreira</data>
+      <data key="v_name">2995</data>
+      <data key="v_club">FC Paços de Ferreira</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">23</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2995.png?lm=1578477741</data>
-      <data key="v_ClubMV">6.05</data>
+      <data key="v_clubMV">6.05</data>
     </node>
     <node id="n136">
-      <data key="v_name">Boavista FC</data>
+      <data key="v_name">2503</data>
+      <data key="v_club">Boavista FC</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">33.3333333333333</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2503.png?lm=1480959207</data>
-      <data key="v_ClubMV">100</data>
+      <data key="v_clubMV">100</data>
     </node>
     <node id="n137">
-      <data key="v_name">Portimonense SAD</data>
+      <data key="v_name">7378</data>
+      <data key="v_club">Portimonense SAD</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">33</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/7378.png?lm=1665922885</data>
-      <data key="v_ClubMV">5.3</data>
+      <data key="v_clubMV">5.3</data>
     </node>
     <node id="n138">
-      <data key="v_name">FC Vizela</data>
+      <data key="v_name">6912</data>
+      <data key="v_club">FC Vizela</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">33</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/6912.png?lm=1700587516</data>
-      <data key="v_ClubMV">10.9</data>
+      <data key="v_clubMV">10.9</data>
     </node>
     <node id="n139">
-      <data key="v_name">FC Arouca</data>
+      <data key="v_name">8024</data>
+      <data key="v_club">FC Arouca</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">42.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/8024.png?lm=1530096604</data>
-      <data key="v_ClubMV">26.15</data>
+      <data key="v_clubMV">26.15</data>
     </node>
     <node id="n140">
-      <data key="v_name">Rio Ave FC</data>
+      <data key="v_name">2425</data>
+      <data key="v_club">Rio Ave FC</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2425.png?lm=1516613968</data>
-      <data key="v_ClubMV">33.65</data>
+      <data key="v_clubMV">33.65</data>
     </node>
     <node id="n141">
-      <data key="v_name">Casa Pia AC</data>
+      <data key="v_name">3268</data>
+      <data key="v_club">Casa Pia AC</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">37.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3268.png?lm=1742856850</data>
-      <data key="v_ClubMV">24.8</data>
+      <data key="v_clubMV">24.8</data>
     </node>
     <node id="n142">
-      <data key="v_name">GD Chaves</data>
+      <data key="v_name">3325</data>
+      <data key="v_club">GD Chaves</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">34.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3325.png?lm=1416392512</data>
-      <data key="v_ClubMV">8.88</data>
+      <data key="v_clubMV">8.88</data>
     </node>
     <node id="n143">
-      <data key="v_name">Moreirense FC</data>
+      <data key="v_name">979</data>
+      <data key="v_club">Moreirense FC</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">43.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/979.png?lm=1552324606</data>
-      <data key="v_ClubMV">29.95</data>
+      <data key="v_clubMV">29.95</data>
     </node>
     <node id="n144">
-      <data key="v_name">SC Farense</data>
+      <data key="v_name">4294</data>
+      <data key="v_club">SC Farense</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">32</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/4294.png?lm=1550150253</data>
-      <data key="v_ClubMV">9.55</data>
+      <data key="v_clubMV">9.55</data>
     </node>
     <node id="n145">
-      <data key="v_name">CF Estrela Amadora</data>
+      <data key="v_name">2431</data>
+      <data key="v_club">CF Estrela Amadora</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">30</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2431.png?lm=1743687810</data>
-      <data key="v_ClubMV">21</data>
+      <data key="v_clubMV">21</data>
     </node>
     <node id="n146">
-      <data key="v_name">Avs Futebol</data>
+      <data key="v_name">110302</data>
+      <data key="v_club">Avs Futebol</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">19.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/110302.png?lm=1698968034</data>
-      <data key="v_ClubMV">11.55</data>
+      <data key="v_clubMV">11.55</data>
     </node>
     <node id="n147">
-      <data key="v_name">CD Nacional</data>
+      <data key="v_name">982</data>
+      <data key="v_club">CD Nacional</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">29.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/982.png?lm=1549988602</data>
-      <data key="v_ClubMV">22.48</data>
+      <data key="v_clubMV">22.48</data>
     </node>
     <node id="n148">
-      <data key="v_name">CD Tondela</data>
+      <data key="v_name">7179</data>
+      <data key="v_club">CD Tondela</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">21</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/7179.png?lm=1506427804</data>
-      <data key="v_ClubMV">24.15</data>
+      <data key="v_clubMV">24.15</data>
     </node>
     <node id="n149">
-      <data key="v_name">FC Alverca</data>
+      <data key="v_name">2521</data>
+      <data key="v_club">FC Alverca</data>
       <data key="v_league">liga-portugal</data>
       <data key="v_avgPts">35</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2521.png?lm=1468133408</data>
-      <data key="v_ClubMV">33.55</data>
+      <data key="v_clubMV">33.55</data>
     </node>
     <node id="n150">
-      <data key="v_name">Trabzonspor</data>
+      <data key="v_name">449</data>
+      <data key="v_club">Trabzonspor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">59.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/449.png?lm=1759324895</data>
-      <data key="v_ClubMV">114.5</data>
+      <data key="v_clubMV">114.5</data>
     </node>
     <node id="n151">
-      <data key="v_name">Fenerbahce</data>
+      <data key="v_name">36</data>
+      <data key="v_club">Fenerbahce</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">82.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/36.png?lm=1753429185</data>
-      <data key="v_ClubMV">247.8</data>
+      <data key="v_clubMV">247.8</data>
     </node>
     <node id="n152">
-      <data key="v_name">Konyaspor</data>
+      <data key="v_name">2293</data>
+      <data key="v_club">Konyaspor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">43</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2293.png?lm=1753430360</data>
-      <data key="v_ClubMV">38.35</data>
+      <data key="v_clubMV">38.35</data>
     </node>
     <node id="n153">
-      <data key="v_name">Basaksehir FK</data>
+      <data key="v_name">6890</data>
+      <data key="v_club">Basaksehir FK</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">56</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/6890.png?lm=1753429032</data>
-      <data key="v_ClubMV">72.1</data>
+      <data key="v_clubMV">72.1</data>
     </node>
     <node id="n154">
-      <data key="v_name">Alanyaspor</data>
+      <data key="v_name">11282</data>
+      <data key="v_club">Alanyaspor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">42.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/11282.png?lm=1753428907</data>
-      <data key="v_ClubMV">30.85</data>
+      <data key="v_clubMV">30.85</data>
     </node>
     <node id="n155">
-      <data key="v_name">Besiktas JK</data>
+      <data key="v_name">114</data>
+      <data key="v_club">Besiktas JK</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">62.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/114_1741080845.png?lm=1741080846</data>
-      <data key="v_ClubMV">185.1</data>
+      <data key="v_clubMV">185.1</data>
     </node>
     <node id="n156">
-      <data key="v_name">Antalyaspor</data>
+      <data key="v_name">589</data>
+      <data key="v_club">Antalyaspor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">40.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/589.png?lm=1753428974</data>
-      <data key="v_ClubMV">22.4</data>
+      <data key="v_clubMV">22.4</data>
     </node>
     <node id="n157">
-      <data key="v_name">Fatih Karagümrük</data>
+      <data key="v_name">6646</data>
+      <data key="v_club">Fatih Karagümrük</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/6646.png?lm=1753429757</data>
-      <data key="v_ClubMV">14.85</data>
+      <data key="v_clubMV">14.85</data>
     </node>
     <node id="n158">
-      <data key="v_name">Adana Demirspor</data>
+      <data key="v_name">3840</data>
+      <data key="v_club">Adana Demirspor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">38.3333333333333</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3840.png?lm=1753361832</data>
-      <data key="v_ClubMV">1.23</data>
+      <data key="v_clubMV">1.23</data>
     </node>
     <node id="n159">
-      <data key="v_name">Sivasspor</data>
+      <data key="v_name">2381</data>
+      <data key="v_club">Sivasspor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">43.3333333333333</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2381.png?lm=1753360079</data>
-      <data key="v_ClubMV">12.1</data>
+      <data key="v_clubMV">12.1</data>
     </node>
     <node id="n160">
-      <data key="v_name">Kasimpasa</data>
+      <data key="v_name">10484</data>
+      <data key="v_club">Kasimpasa</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">43.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/10484.png?lm=1753430136</data>
-      <data key="v_ClubMV">27.75</data>
+      <data key="v_clubMV">27.75</data>
     </node>
     <node id="n161">
-      <data key="v_name">Hatayspor</data>
+      <data key="v_name">7775</data>
+      <data key="v_club">Hatayspor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">30</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/7775.png?lm=1753359991</data>
-      <data key="v_ClubMV">3.32</data>
+      <data key="v_clubMV">3.32</data>
     </node>
     <node id="n162">
-      <data key="v_name">Galatasaray</data>
+      <data key="v_name">141</data>
+      <data key="v_club">Galatasaray</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">88.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/141.png?lm=1406739071</data>
-      <data key="v_ClubMV">344.75</data>
+      <data key="v_clubMV">344.75</data>
     </node>
     <node id="n163">
-      <data key="v_name">Kayserispor</data>
+      <data key="v_name">3205</data>
+      <data key="v_club">Kayserispor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">39.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3205.png?lm=1753430186</data>
-      <data key="v_ClubMV">27.9</data>
+      <data key="v_clubMV">27.9</data>
     </node>
     <node id="n164">
-      <data key="v_name">Gaziantep FK</data>
+      <data key="v_name">2832</data>
+      <data key="v_club">Gaziantep FK</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2832.png?lm=1753429399</data>
-      <data key="v_ClubMV">30</data>
+      <data key="v_clubMV">30</data>
     </node>
     <node id="n165">
-      <data key="v_name">Giresunspor</data>
+      <data key="v_name">11688</data>
+      <data key="v_club">Giresunspor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">40</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/11688.png?lm=1667476015</data>
-      <data key="v_ClubMV">1.23</data>
+      <data key="v_clubMV">1.23</data>
     </node>
     <node id="n166">
-      <data key="v_name">MKE Ankaragücü</data>
+      <data key="v_name">868</data>
+      <data key="v_club">MKE Ankaragücü</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">41</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/868.png?lm=1582635029</data>
-      <data key="v_ClubMV">2.09</data>
+      <data key="v_clubMV">2.09</data>
     </node>
     <node id="n167">
-      <data key="v_name">Ümraniyespor</data>
+      <data key="v_name">24245</data>
+      <data key="v_club">Ümraniyespor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">30</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/24245.png?lm=1753361257</data>
-      <data key="v_ClubMV">7.53</data>
+      <data key="v_clubMV">7.53</data>
     </node>
     <node id="n168">
-      <data key="v_name">Istanbulspor</data>
+      <data key="v_name">924</data>
+      <data key="v_club">Istanbulspor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">28.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/924.png?lm=1753360188</data>
-      <data key="v_ClubMV">8.63</data>
+      <data key="v_clubMV">8.63</data>
     </node>
     <node id="n169">
-      <data key="v_name">Samsunspor</data>
+      <data key="v_name">152</data>
+      <data key="v_club">Samsunspor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">48.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/152.png?lm=1753432411</data>
-      <data key="v_ClubMV">52.35</data>
+      <data key="v_clubMV">52.35</data>
     </node>
     <node id="n170">
-      <data key="v_name">Caykur Rizespor</data>
+      <data key="v_name">126</data>
+      <data key="v_club">Caykur Rizespor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">45</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/126.png?lm=1753432348</data>
-      <data key="v_ClubMV">40</data>
+      <data key="v_clubMV">40</data>
     </node>
     <node id="n171">
-      <data key="v_name">Pendikspor</data>
+      <data key="v_name">3209</data>
+      <data key="v_club">Pendikspor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3209.png?lm=1753361006</data>
-      <data key="v_ClubMV">9.28</data>
+      <data key="v_clubMV">9.28</data>
     </node>
     <node id="n172">
-      <data key="v_name">Eyüpspor</data>
+      <data key="v_name">7160</data>
+      <data key="v_club">Eyüpspor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">37.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/7160.png?lm=1753429120</data>
-      <data key="v_ClubMV">13.75</data>
+      <data key="v_clubMV">13.75</data>
     </node>
     <node id="n173">
-      <data key="v_name">Göztepe</data>
+      <data key="v_name">1467</data>
+      <data key="v_club">Göztepe</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">48.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1467.png?lm=1753429550</data>
-      <data key="v_ClubMV">57.13</data>
+      <data key="v_clubMV">57.13</data>
     </node>
     <node id="n174">
-      <data key="v_name">Bodrum FK</data>
+      <data key="v_name">44006</data>
+      <data key="v_club">Bodrum FK</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/44006.png?lm=1753359590</data>
-      <data key="v_ClubMV">13.78</data>
+      <data key="v_clubMV">13.78</data>
     </node>
     <node id="n175">
-      <data key="v_name">Kocaelispor</data>
+      <data key="v_name">120</data>
+      <data key="v_club">Kocaelispor</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">35</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/120.png?lm=1753430297</data>
-      <data key="v_ClubMV">25.5</data>
+      <data key="v_clubMV">25.5</data>
     </node>
     <node id="n176">
-      <data key="v_name">Genclerbirligi Ankara</data>
+      <data key="v_name">820</data>
+      <data key="v_club">Genclerbirligi Ankara</data>
       <data key="v_league">super-lig</data>
       <data key="v_avgPts">25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/820.png?lm=1753429938</data>
-      <data key="v_ClubMV">27.25</data>
+      <data key="v_clubMV">27.25</data>
     </node>
     <node id="n177">
-      <data key="v_name">Ajax Amsterdam</data>
+      <data key="v_name">610</data>
+      <data key="v_club">Ajax Amsterdam</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">63.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/610_1750407814.png?lm=1750407814</data>
-      <data key="v_ClubMV">187.15</data>
+      <data key="v_clubMV">187.15</data>
     </node>
     <node id="n178">
-      <data key="v_name">AZ Alkmaar</data>
+      <data key="v_name">1090</data>
+      <data key="v_club">AZ Alkmaar</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">59.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1090.png?lm=1586848339</data>
-      <data key="v_ClubMV">165.88</data>
+      <data key="v_clubMV">165.88</data>
     </node>
     <node id="n179">
-      <data key="v_name">SC Cambuur Leeuwarden</data>
+      <data key="v_name">133</data>
+      <data key="v_club">SC Cambuur Leeuwarden</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">19</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/133.png?lm=1692824919</data>
-      <data key="v_ClubMV">10.35</data>
+      <data key="v_clubMV">10.35</data>
     </node>
     <node id="n180">
-      <data key="v_name">FC Emmen</data>
+      <data key="v_name">1283</data>
+      <data key="v_club">FC Emmen</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">28</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1283_1750407474.png?lm=1750407475</data>
-      <data key="v_ClubMV">7.75</data>
+      <data key="v_clubMV">7.75</data>
     </node>
     <node id="n181">
-      <data key="v_name">Excelsior Rotterdam</data>
+      <data key="v_name">798</data>
+      <data key="v_club">Excelsior Rotterdam</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">29.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/798.png?lm=1626701001</data>
-      <data key="v_ClubMV">15.3</data>
+      <data key="v_clubMV">15.3</data>
     </node>
     <node id="n182">
-      <data key="v_name">Feyenoord Rotterdam</data>
+      <data key="v_name">234</data>
+      <data key="v_club">Feyenoord Rotterdam</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">72.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/234_1722422152.png?lm=1722422152</data>
-      <data key="v_ClubMV">214.43</data>
+      <data key="v_clubMV">214.43</data>
     </node>
     <node id="n183">
-      <data key="v_name">Fortuna Sittard</data>
+      <data key="v_name">385</data>
+      <data key="v_club">Fortuna Sittard</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">37.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/385.png?lm=1610789891</data>
-      <data key="v_ClubMV">19.73</data>
+      <data key="v_clubMV">19.73</data>
     </node>
     <node id="n184">
-      <data key="v_name">Go Ahead Eagles</data>
+      <data key="v_name">1435</data>
+      <data key="v_club">Go Ahead Eagles</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">43.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1435.png?lm=1540316767</data>
-      <data key="v_ClubMV">30.08</data>
+      <data key="v_clubMV">30.08</data>
     </node>
     <node id="n185">
-      <data key="v_name">FC Groningen</data>
+      <data key="v_name">202</data>
+      <data key="v_club">FC Groningen</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">33</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/202.png?lm=1657052745</data>
-      <data key="v_ClubMV">34</data>
+      <data key="v_clubMV">34</data>
     </node>
     <node id="n186">
-      <data key="v_name">SC Heerenveen</data>
+      <data key="v_name">306</data>
+      <data key="v_club">SC Heerenveen</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">42.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/306.png?lm=1655978084</data>
-      <data key="v_ClubMV">42.48</data>
+      <data key="v_clubMV">42.48</data>
     </node>
     <node id="n187">
-      <data key="v_name">NEC Nijmegen</data>
+      <data key="v_name">467</data>
+      <data key="v_club">NEC Nijmegen</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">47.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/467.png?lm=1460302949</data>
-      <data key="v_ClubMV">53.5</data>
+      <data key="v_clubMV">53.5</data>
     </node>
     <node id="n188">
-      <data key="v_name">PSV Eindhoven</data>
+      <data key="v_name">383</data>
+      <data key="v_club">PSV Eindhoven</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">79.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/383.png?lm=1682925949</data>
-      <data key="v_ClubMV">283.6</data>
+      <data key="v_clubMV">283.6</data>
     </node>
     <node id="n189">
-      <data key="v_name">RKC Waalwijk</data>
+      <data key="v_name">235</data>
+      <data key="v_club">RKC Waalwijk</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">31.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/235.png?lm=1435505083</data>
-      <data key="v_ClubMV">8.18</data>
+      <data key="v_clubMV">8.18</data>
     </node>
     <node id="n190">
-      <data key="v_name">Sparta Rotterdam</data>
+      <data key="v_name">468</data>
+      <data key="v_club">Sparta Rotterdam</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">47.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/468.png?lm=1485262132</data>
-      <data key="v_ClubMV">29.15</data>
+      <data key="v_clubMV">29.15</data>
     </node>
     <node id="n191">
-      <data key="v_name">FC Twente Enschede</data>
+      <data key="v_name">317</data>
+      <data key="v_club">FC Twente Enschede</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">60</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/317.png?lm=1610789581</data>
-      <data key="v_ClubMV">74.25</data>
+      <data key="v_clubMV">74.25</data>
     </node>
     <node id="n192">
-      <data key="v_name">FC Utrecht</data>
+      <data key="v_name">200</data>
+      <data key="v_club">FC Utrecht</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">53</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/200.png?lm=1628450351</data>
-      <data key="v_ClubMV">80.6</data>
+      <data key="v_clubMV">80.6</data>
     </node>
     <node id="n193">
-      <data key="v_name">Vitesse Arnhem</data>
+      <data key="v_name">499</data>
+      <data key="v_club">Vitesse Arnhem</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">23</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/499.png?lm=1679396090</data>
-      <data key="v_ClubMV">5.08</data>
+      <data key="v_clubMV">5.08</data>
     </node>
     <node id="n194">
-      <data key="v_name">FC Volendam</data>
+      <data key="v_name">724</data>
+      <data key="v_club">FC Volendam</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">27.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/724.png?lm=1407649576</data>
-      <data key="v_ClubMV">17.38</data>
+      <data key="v_clubMV">17.38</data>
     </node>
     <node id="n195">
-      <data key="v_name">Almere City FC</data>
+      <data key="v_name">723</data>
+      <data key="v_club">Almere City FC</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">28</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/723.png?lm=1588851577</data>
-      <data key="v_ClubMV">8.05</data>
+      <data key="v_clubMV">8.05</data>
     </node>
     <node id="n196">
-      <data key="v_name">Heracles Almelo</data>
+      <data key="v_name">1304</data>
+      <data key="v_club">Heracles Almelo</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">30</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1304.png?lm=1488213735</data>
-      <data key="v_ClubMV">14.4</data>
+      <data key="v_clubMV">14.4</data>
     </node>
     <node id="n197">
-      <data key="v_name">PEC Zwolle</data>
+      <data key="v_name">1269</data>
+      <data key="v_club">PEC Zwolle</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1269.png?lm=1610790473</data>
-      <data key="v_ClubMV">23.35</data>
+      <data key="v_clubMV">23.35</data>
     </node>
     <node id="n198">
-      <data key="v_name">NAC Breda</data>
+      <data key="v_name">132</data>
+      <data key="v_club">NAC Breda</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">29</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/132.png?lm=1667313213</data>
-      <data key="v_ClubMV">14.6</data>
+      <data key="v_clubMV">14.6</data>
     </node>
     <node id="n199">
-      <data key="v_name">Willem II Tilburg</data>
+      <data key="v_name">403</data>
+      <data key="v_club">Willem II Tilburg</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">26</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/403.png?lm=1686931031</data>
-      <data key="v_ClubMV">10.6</data>
+      <data key="v_clubMV">10.6</data>
     </node>
     <node id="n200">
-      <data key="v_name">SC Telstar</data>
+      <data key="v_name">1434</data>
+      <data key="v_club">SC Telstar</data>
       <data key="v_league">eredivisie</data>
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1434.png?lm=1407649844</data>
-      <data key="v_ClubMV">11.3</data>
+      <data key="v_clubMV">11.3</data>
     </node>
     <node id="n201">
-      <data key="v_name">Club Brugge KV</data>
+      <data key="v_name">2282</data>
+      <data key="v_club">Club Brugge KV</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">58</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2282.png?lm=1716279106</data>
-      <data key="v_ClubMV">232.3</data>
+      <data key="v_clubMV">232.3</data>
     </node>
     <node id="n202">
-      <data key="v_name">Union Saint-Gilloise</data>
+      <data key="v_name">3948</data>
+      <data key="v_club">Union Saint-Gilloise</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">66.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3948.png?lm=1624390507</data>
-      <data key="v_ClubMV">122.5</data>
+      <data key="v_clubMV">122.5</data>
     </node>
     <node id="n203">
-      <data key="v_name">Royal Antwerp FC</data>
+      <data key="v_name">1096</data>
+      <data key="v_club">Royal Antwerp FC</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">51.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1096.png?lm=1623758865</data>
-      <data key="v_ClubMV">52.95</data>
+      <data key="v_clubMV">52.95</data>
     </node>
     <node id="n204">
-      <data key="v_name">RSC Anderlecht</data>
+      <data key="v_name">58</data>
+      <data key="v_club">RSC Anderlecht</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">51</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/58_1693390150.png?lm=1693390150</data>
-      <data key="v_ClubMV">98.75</data>
+      <data key="v_clubMV">98.75</data>
     </node>
     <node id="n205">
-      <data key="v_name">KAA Gent</data>
+      <data key="v_name">157</data>
+      <data key="v_club">KAA Gent</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">48.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/157_1715694862.png?lm=1715694862</data>
-      <data key="v_ClubMV">62.75</data>
+      <data key="v_clubMV">62.75</data>
     </node>
     <node id="n206">
-      <data key="v_name">KRC Genk</data>
+      <data key="v_name">1184</data>
+      <data key="v_club">KRC Genk</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">58</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1184.png?lm=1717666245</data>
-      <data key="v_ClubMV">138.65</data>
+      <data key="v_clubMV">138.65</data>
     </node>
     <node id="n207">
-      <data key="v_name">KV Mechelen</data>
+      <data key="v_name">354</data>
+      <data key="v_club">KV Mechelen</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">42</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/354.png?lm=1693258903</data>
-      <data key="v_ClubMV">40.45</data>
+      <data key="v_clubMV">40.45</data>
     </node>
     <node id="n208">
-      <data key="v_name">Royal Charleroi SC</data>
+      <data key="v_name">172</data>
+      <data key="v_club">Royal Charleroi SC</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/172.png?lm=1448474590</data>
-      <data key="v_ClubMV">41.5</data>
+      <data key="v_clubMV">41.5</data>
     </node>
     <node id="n209">
-      <data key="v_name">Sint-Truidense VV</data>
+      <data key="v_name">475</data>
+      <data key="v_club">Sint-Truidense VV</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">42.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/475.png?lm=1448474474</data>
-      <data key="v_ClubMV">43.8</data>
+      <data key="v_clubMV">43.8</data>
     </node>
     <node id="n210">
-      <data key="v_name">Cercle Brugge </data>
+      <data key="v_name">520</data>
+      <data key="v_club">Cercle Brugge </data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">40</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/520.png?lm=1713864588</data>
-      <data key="v_ClubMV">40.15</data>
+      <data key="v_clubMV">40.15</data>
     </node>
     <node id="n211">
-      <data key="v_name">Oud-Heverlee Leuven</data>
+      <data key="v_name">2727</data>
+      <data key="v_club">Oud-Heverlee Leuven</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2727.png?lm=1723796027</data>
-      <data key="v_ClubMV">29.65</data>
+      <data key="v_clubMV">29.65</data>
     </node>
     <node id="n212">
-      <data key="v_name">KV Oostende (-2024)</data>
+      <data key="v_name">2861</data>
+      <data key="v_club">KV Oostende (-2024)</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2861.png?lm=1625231721</data>
-      <data key="v_ClubMV">1.23</data>
+      <data key="v_clubMV">1.23</data>
     </node>
     <node id="n213">
-      <data key="v_name">KV Kortrijk</data>
+      <data key="v_name">601</data>
+      <data key="v_club">KV Kortrijk</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/601.png?lm=1534260191</data>
-      <data key="v_ClubMV">12.65</data>
+      <data key="v_clubMV">12.65</data>
     </node>
     <node id="n214">
-      <data key="v_name">Standard Liège</data>
+      <data key="v_name">3057</data>
+      <data key="v_club">Standard Liège</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">42</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3057_1688981764.png?lm=1688981764</data>
-      <data key="v_ClubMV">46.1</data>
+      <data key="v_clubMV">46.1</data>
     </node>
     <node id="n215">
-      <data key="v_name">KAS Eupen</data>
+      <data key="v_name">1245</data>
+      <data key="v_club">KAS Eupen</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">26</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1245.png?lm=1464260524</data>
-      <data key="v_ClubMV">11.7</data>
+      <data key="v_clubMV">11.7</data>
     </node>
     <node id="n216">
-      <data key="v_name">Zulte Waregem</data>
+      <data key="v_name">3508</data>
+      <data key="v_club">Zulte Waregem</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">29.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3508.png?lm=1420103130</data>
-      <data key="v_ClubMV">23.75</data>
+      <data key="v_clubMV">23.75</data>
     </node>
     <node id="n217">
-      <data key="v_name">RFC Seraing</data>
+      <data key="v_name">2715</data>
+      <data key="v_club">RFC Seraing</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">20</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2715.png?lm=1495287150</data>
-      <data key="v_ClubMV">5.65</data>
+      <data key="v_clubMV">5.65</data>
     </node>
     <node id="n218">
-      <data key="v_name">KVC Westerlo</data>
+      <data key="v_name">968</data>
+      <data key="v_club">KVC Westerlo</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">39.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/968.png?lm=1715694370</data>
-      <data key="v_ClubMV">45.45</data>
+      <data key="v_clubMV">45.45</data>
     </node>
     <node id="n219">
-      <data key="v_name">RWD Molenbeek</data>
+      <data key="v_name">54189</data>
+      <data key="v_club">RWD Molenbeek</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">23</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/54189_1751545719.png?lm=1751545720</data>
-      <data key="v_ClubMV">9.3</data>
+      <data key="v_clubMV">9.3</data>
     </node>
     <node id="n220">
-      <data key="v_name">FCV Dender EH</data>
+      <data key="v_name">9010</data>
+      <data key="v_club">FCV Dender EH</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">25.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/9010.png?lm=1449921839</data>
-      <data key="v_ClubMV">19.2</data>
+      <data key="v_clubMV">19.2</data>
     </node>
     <node id="n221">
-      <data key="v_name">Beerschot VA</data>
+      <data key="v_name">41274</data>
+      <data key="v_club">Beerschot VA</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">18</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/41274.png?lm=1568728391</data>
-      <data key="v_ClubMV">11.8</data>
+      <data key="v_clubMV">11.8</data>
     </node>
     <node id="n222">
-      <data key="v_name">RAAL La Louvière</data>
+      <data key="v_name">3901</data>
+      <data key="v_club">RAAL La Louvière</data>
       <data key="v_league">jupiler-pro-league</data>
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3901.png?lm=1752058395</data>
-      <data key="v_ClubMV">16.1</data>
+      <data key="v_clubMV">16.1</data>
     </node>
     <node id="n223">
-      <data key="v_name">Zenit St. Petersburg</data>
+      <data key="v_name">964</data>
+      <data key="v_club">Zenit St. Petersburg</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">61.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/964_1486196005.png?lm=1486196005</data>
-      <data key="v_ClubMV">185.1</data>
+      <data key="v_clubMV">185.1</data>
     </node>
     <node id="n224">
-      <data key="v_name">FC Sochi</data>
+      <data key="v_name">41231</data>
+      <data key="v_club">FC Sochi</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">24.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/41231.png?lm=1549213557</data>
-      <data key="v_ClubMV">27.68</data>
+      <data key="v_clubMV">27.68</data>
     </node>
     <node id="n225">
-      <data key="v_name">Dynamo Moscow</data>
+      <data key="v_name">121</data>
+      <data key="v_club">Dynamo Moscow</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">47.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/121.png?lm=1597937447</data>
-      <data key="v_ClubMV">111.1</data>
+      <data key="v_clubMV">111.1</data>
     </node>
     <node id="n226">
-      <data key="v_name">FC Krasnodar</data>
+      <data key="v_name">16704</data>
+      <data key="v_club">FC Krasnodar</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">56</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/16704.png?lm=1499524238</data>
-      <data key="v_ClubMV">117.5</data>
+      <data key="v_clubMV">117.5</data>
     </node>
     <node id="n227">
-      <data key="v_name">CSKA Moscow</data>
+      <data key="v_name">2410</data>
+      <data key="v_club">CSKA Moscow</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">51.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2410.png?lm=1409222667</data>
-      <data key="v_ClubMV">106.45</data>
+      <data key="v_clubMV">106.45</data>
     </node>
     <node id="n228">
-      <data key="v_name">Lokomotiv Moscow</data>
+      <data key="v_name">932</data>
+      <data key="v_club">Lokomotiv Moscow</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">49</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/932.png?lm=1486195738</data>
-      <data key="v_ClubMV">105.5</data>
+      <data key="v_clubMV">105.5</data>
     </node>
     <node id="n229">
-      <data key="v_name">Akhmat Grozny</data>
+      <data key="v_name">3725</data>
+      <data key="v_club">Akhmat Grozny</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">35.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3725.png?lm=1497737399</data>
-      <data key="v_ClubMV">28.9</data>
+      <data key="v_clubMV">28.9</data>
     </node>
     <node id="n230">
-      <data key="v_name">Krylya Sovetov Samara</data>
+      <data key="v_name">2696</data>
+      <data key="v_club">Krylya Sovetov Samara</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">31.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2696.png?lm=1658044381</data>
-      <data key="v_ClubMV">31.5</data>
+      <data key="v_clubMV">31.5</data>
     </node>
     <node id="n231">
-      <data key="v_name">FC Rostov</data>
+      <data key="v_name">1083</data>
+      <data key="v_club">FC Rostov</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">40.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1083.png?lm=1604130993</data>
-      <data key="v_ClubMV">37.95</data>
+      <data key="v_clubMV">37.95</data>
     </node>
     <node id="n232">
-      <data key="v_name">Spartak Moscow</data>
+      <data key="v_name">232</data>
+      <data key="v_club">Spartak Moscow</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">50.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/232.png?lm=1769954012</data>
-      <data key="v_ClubMV">125.9</data>
+      <data key="v_clubMV">125.9</data>
     </node>
     <node id="n233">
-      <data key="v_name">FC Pari Nizhniy Novgorod</data>
+      <data key="v_name">49702</data>
+      <data key="v_club">FC Pari Nizhniy Novgorod</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/49702_1657882864.png?lm=1657882864</data>
-      <data key="v_ClubMV">22.18</data>
+      <data key="v_clubMV">22.18</data>
     </node>
     <node id="n234">
-      <data key="v_name">Ural Yekaterinburg</data>
+      <data key="v_name">11127</data>
+      <data key="v_club">Ural Yekaterinburg</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">33</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/11127.png?lm=1500926160</data>
-      <data key="v_ClubMV">13.45</data>
+      <data key="v_clubMV">13.45</data>
     </node>
     <node id="n235">
-      <data key="v_name">FC Khimki</data>
+      <data key="v_name">3719</data>
+      <data key="v_club">FC Khimki</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">23.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3719_1736070020.png?lm=1736070021</data>
-      <data key="v_ClubMV">1.23</data>
+      <data key="v_clubMV">1.23</data>
     </node>
     <node id="n236">
-      <data key="v_name">Torpedo Moskau</data>
+      <data key="v_name">1186</data>
+      <data key="v_club">Torpedo Moskau</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">13</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1186_1676011892.png?lm=1676011892</data>
-      <data key="v_ClubMV">12.5</data>
+      <data key="v_clubMV">12.5</data>
     </node>
     <node id="n237">
-      <data key="v_name">Fakel Voronezh</data>
+      <data key="v_name">1124</data>
+      <data key="v_club">Fakel Voronezh</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">26.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1124.png?lm=1700892653</data>
-      <data key="v_ClubMV">11.3</data>
+      <data key="v_clubMV">11.3</data>
     </node>
     <node id="n238">
-      <data key="v_name">FC Orenburg</data>
+      <data key="v_name">14589</data>
+      <data key="v_club">FC Orenburg</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">29</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/14589_1738429366.png?lm=1738429366</data>
-      <data key="v_ClubMV">21.15</data>
+      <data key="v_clubMV">21.15</data>
     </node>
     <node id="n239">
-      <data key="v_name">Rubin Kazan</data>
+      <data key="v_name">2698</data>
+      <data key="v_club">Rubin Kazan</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">40.3333333333333</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2698.png?lm=1561987986</data>
-      <data key="v_ClubMV">53</data>
+      <data key="v_clubMV">53</data>
     </node>
     <node id="n240">
-      <data key="v_name">Baltika Kaliningrad</data>
+      <data key="v_name">2741</data>
+      <data key="v_club">Baltika Kaliningrad</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">35</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2741.png?lm=1673959895</data>
-      <data key="v_ClubMV">29.75</data>
+      <data key="v_clubMV">29.75</data>
     </node>
     <node id="n241">
-      <data key="v_name">Dinamo Makhachkala</data>
+      <data key="v_name">75231</data>
+      <data key="v_club">Dinamo Makhachkala</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">26</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/75231.png?lm=1625214744</data>
-      <data key="v_ClubMV">18.18</data>
+      <data key="v_clubMV">18.18</data>
     </node>
     <node id="n242">
-      <data key="v_name">Akron Tolyatti</data>
+      <data key="v_name">71985</data>
+      <data key="v_club">Akron Tolyatti</data>
       <data key="v_league">premier-liga</data>
       <data key="v_avgPts">28.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/71985.png?lm=1689321065</data>
-      <data key="v_ClubMV">26.6</data>
+      <data key="v_clubMV">26.6</data>
     </node>
     <edge source="n71" target="n170">
       <data key="e_total.fee">0</data>

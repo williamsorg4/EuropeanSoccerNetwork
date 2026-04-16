@@ -9,6 +9,13 @@ nodedataexternal <- readRDS("~/R/EuropeanSoccerNetwork/Data/nodedataexternal.rds
 teamLeagues <- readRDS("~/R/EuropeanSoccerNetwork/Data/teamLeagues.rds")
 
 
+# Add back lon lat cols ------
+nodedataexternal <- nodedataexternal %>% 
+  mutate(
+    lon = st_coordinates(geometry)[,1],
+    lat = st_coordinates(geometry)[,2]
+    )
+
 # Create Graph file -----
 edges <- transfers.euro %>%
   group_by(from.id, to.id) %>%

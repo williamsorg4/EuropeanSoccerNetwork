@@ -10,6 +10,8 @@
   <key id="v_avgPts" for="node" attr.name="avgPts" attr.type="double"/>
   <key id="v_logo" for="node" attr.name="logo" attr.type="string"/>
   <key id="v_clubMV" for="node" attr.name="clubMV" attr.type="double"/>
+  <key id="v_lon" for="node" attr.name="lon" attr.type="double"/>
+  <key id="v_lat" for="node" attr.name="lat" attr.type="double"/>
   <key id="e_total.fee" for="edge" attr.name="total.fee" attr.type="double"/>
   <key id="e_num.transfers" for="edge" attr.name="num.transfers" attr.type="double"/>
   <key id="e_mean.age" for="edge" attr.name="mean.age" attr.type="double"/>
@@ -22,6 +24,8 @@
       <data key="v_avgPts">79.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/11.png?lm=1489787850</data>
       <data key="v_clubMV">1230</data>
+      <data key="v_lon">-0.1083997</data>
+      <data key="v_lat">51.5550404</data>
     </node>
     <node id="n1">
       <data key="v_name">405</data>
@@ -30,6 +34,8 @@
       <data key="v_avgPts">62.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/405_1717155946.png?lm=1717155946</data>
       <data key="v_clubMV">547.5</data>
+      <data key="v_lon">-1.8850354</data>
+      <data key="v_lat">52.5091264</data>
     </node>
     <node id="n2">
       <data key="v_name">989</data>
@@ -38,6 +44,8 @@
       <data key="v_avgPts">47</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/989.png?lm=1457991811</data>
       <data key="v_clubMV">507.1</data>
+      <data key="v_lon">-1.8383279</data>
+      <data key="v_lat">50.7351814</data>
     </node>
     <node id="n3">
       <data key="v_name">1148</data>
@@ -46,6 +54,8 @@
       <data key="v_avgPts">50.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1148.png?lm=1625150543</data>
       <data key="v_clubMV">470.4</data>
+      <data key="v_lon">-0.2889802</data>
+      <data key="v_lat">51.490713</data>
     </node>
     <node id="n4">
       <data key="v_name">1237</data>
@@ -54,6 +64,8 @@
       <data key="v_avgPts">54.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1237.png?lm=1492718902</data>
       <data key="v_clubMV">494</data>
+      <data key="v_lon">-0.081494</data>
+      <data key="v_lat">50.8607236</data>
     </node>
     <node id="n5">
       <data key="v_name">631</data>
@@ -62,6 +74,8 @@
       <data key="v_avgPts">56</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/631.png?lm=1682435911</data>
       <data key="v_clubMV">1160</data>
+      <data key="v_lon">-0.1910336</data>
+      <data key="v_lat">51.4816869</data>
     </node>
     <node id="n6">
       <data key="v_name">873</data>
@@ -70,6 +84,8 @@
       <data key="v_avgPts">47.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/873.png?lm=1457723287</data>
       <data key="v_clubMV">541.3</data>
+      <data key="v_lon">-0.0852551</data>
+      <data key="v_lat">51.3982429</data>
     </node>
     <node id="n7">
       <data key="v_name">29</data>
@@ -78,6 +94,8 @@
       <data key="v_avgPts">42.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/29.png?lm=1445949846</data>
       <data key="v_clubMV">450.45</data>
+      <data key="v_lon">-3.0027092</data>
+      <data key="v_lat">53.4250024</data>
     </node>
     <node id="n8">
       <data key="v_name">931</data>
@@ -86,6 +104,8 @@
       <data key="v_avgPts">49.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/931.png?lm=1556831687</data>
       <data key="v_clubMV">386.95</data>
+      <data key="v_lon">-0.2217448</data>
+      <data key="v_lat">51.4749218</data>
     </node>
     <node id="n9">
       <data key="v_name">399</data>
@@ -94,6 +114,8 @@
       <data key="v_avgPts">33.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/399.png?lm=1645652224</data>
       <data key="v_clubMV">346.03</data>
+      <data key="v_lon">-0.0542608</data>
+      <data key="v_lat">51.4587449</data>
     </node>
     <node id="n10">
       <data key="v_name">1003</data>
@@ -102,6 +124,8 @@
       <data key="v_avgPts">29.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1003.png?lm=1472229265</data>
       <data key="v_clubMV">145.15</data>
+      <data key="v_lon">-1.1423352</data>
+      <data key="v_lat">52.620397</data>
     </node>
     <node id="n11">
       <data key="v_name">31</data>
@@ -110,6 +134,8 @@
       <data key="v_avgPts">71.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/31_1727777132.png?lm=1727777132</data>
       <data key="v_clubMV">1020</data>
+      <data key="v_lon">-2.9609719</data>
+      <data key="v_lat">53.4309012</data>
     </node>
     <node id="n12">
       <data key="v_name">281</data>
@@ -118,6 +144,8 @@
       <data key="v_avgPts">78.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/281.png?lm=1467356331</data>
       <data key="v_clubMV">1310</data>
+      <data key="v_lon">-2.2005273</data>
+      <data key="v_lat">53.4831448</data>
     </node>
     <node id="n13">
       <data key="v_name">985</data>
@@ -126,6 +154,8 @@
       <data key="v_avgPts">58</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/985.png?lm=1457975903</data>
       <data key="v_clubMV">747.15</data>
+      <data key="v_lon">-2.2913865</data>
+      <data key="v_lat">53.4631095</data>
     </node>
     <node id="n14">
       <data key="v_name">762</data>
@@ -134,6 +164,8 @@
       <data key="v_avgPts">59.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/762.png?lm=1472921161</data>
       <data key="v_clubMV">708.25</data>
+      <data key="v_lon">-1.6218737</data>
+      <data key="v_lat">54.9754693</data>
     </node>
     <node id="n15">
       <data key="v_name">703</data>
@@ -142,6 +174,8 @@
       <data key="v_avgPts">42</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/703.png?lm=1598890289</data>
       <data key="v_clubMV">568</data>
+      <data key="v_lon">-1.1328954</data>
+      <data key="v_lat">52.9399387</data>
     </node>
     <node id="n16">
       <data key="v_name">180</data>
@@ -150,6 +184,8 @@
       <data key="v_avgPts">18.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/180.png?lm=1444560086</data>
       <data key="v_clubMV">157.6</data>
+      <data key="v_lon">-1.3908774</data>
+      <data key="v_lat">50.9058615</data>
     </node>
     <node id="n17">
       <data key="v_name">148</data>
@@ -158,6 +194,8 @@
       <data key="v_avgPts">48.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/148_1732012045.png?lm=1732012045</data>
       <data key="v_clubMV">802.5</data>
+      <data key="v_lon">-0.0662604</data>
+      <data key="v_lat">51.604157</data>
     </node>
     <node id="n18">
       <data key="v_name">379</data>
@@ -166,6 +204,8 @@
       <data key="v_avgPts">41.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/379.png?lm=1464675260</data>
       <data key="v_clubMV">362.95</data>
+      <data key="v_lon">-0.0166238</data>
+      <data key="v_lat">51.5386207</data>
     </node>
     <node id="n19">
       <data key="v_name">543</data>
@@ -174,6 +214,8 @@
       <data key="v_avgPts">36.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/543.png?lm=1467496784</data>
       <data key="v_clubMV">277.1</data>
+      <data key="v_lon">-2.1304079</data>
+      <data key="v_lat">52.5902723</data>
     </node>
     <node id="n20">
       <data key="v_name">1132</data>
@@ -182,6 +224,8 @@
       <data key="v_avgPts">22</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1132.png?lm=1686818840</data>
       <data key="v_clubMV">252.65</data>
+      <data key="v_lon">-2.2298547</data>
+      <data key="v_lat">53.7893606</data>
     </node>
     <node id="n21">
       <data key="v_name">1031</data>
@@ -190,6 +234,8 @@
       <data key="v_avgPts">26</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1031.png?lm=1457723228</data>
       <data key="v_clubMV">29.08</data>
+      <data key="v_lon">-1.5451904</data>
+      <data key="v_lat">52.3214576</data>
     </node>
     <node id="n22">
       <data key="v_name">350</data>
@@ -198,6 +244,8 @@
       <data key="v_avgPts">16</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/350.png?lm=1409254138</data>
       <data key="v_clubMV">132.5</data>
+      <data key="v_lon">-1.4707145</data>
+      <data key="v_lat">53.3703429</data>
     </node>
     <node id="n23">
       <data key="v_name">677</data>
@@ -206,6 +254,8 @@
       <data key="v_avgPts">22</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/677.png?lm=1407655249</data>
       <data key="v_clubMV">198.65</data>
+      <data key="v_lon">-0.2911348</data>
+      <data key="v_lat">51.4085259</data>
     </node>
     <node id="n24">
       <data key="v_name">289</data>
@@ -214,6 +264,8 @@
       <data key="v_avgPts">46</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/289.png?lm=1485645633</data>
       <data key="v_clubMV">381.95</data>
+      <data key="v_lon">-1.3882579</data>
+      <data key="v_lat">54.9143953</data>
     </node>
     <node id="n25">
       <data key="v_name">27</data>
@@ -222,6 +274,8 @@
       <data key="v_avgPts">75.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/27_1498251266.png?lm=1498251266</data>
       <data key="v_clubMV">965.95</data>
+      <data key="v_lon">11.6236227</data>
+      <data key="v_lat">48.2187901</data>
     </node>
     <node id="n26">
       <data key="v_name">16</data>
@@ -230,6 +284,8 @@
       <data key="v_avgPts">63.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/16.png?lm=1396275280</data>
       <data key="v_clubMV">498.4</data>
+      <data key="v_lon">7.4518549</data>
+      <data key="v_lat">51.4924922</data>
     </node>
     <node id="n27">
       <data key="v_name">15</data>
@@ -238,6 +294,8 @@
       <data key="v_avgPts">65.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/15.png?lm=1710156317</data>
       <data key="v_clubMV">449.75</data>
+      <data key="v_lon">7.0030964</data>
+      <data key="v_lat">51.0381439</data>
     </node>
     <node id="n28">
       <data key="v_name">23826</data>
@@ -246,6 +304,8 @@
       <data key="v_avgPts">59.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/23826.png?lm=1619431624</data>
       <data key="v_clubMV">471.25</data>
+      <data key="v_lon">12.3482361</data>
+      <data key="v_lat">51.3457079</data>
     </node>
     <node id="n29">
       <data key="v_name">89</data>
@@ -254,6 +314,8 @@
       <data key="v_avgPts">41.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/89.png?lm=1402956210</data>
       <data key="v_clubMV">124.85</data>
+      <data key="v_lon">13.5680789</data>
+      <data key="v_lat">52.4569741</data>
     </node>
     <node id="n30">
       <data key="v_name">60</data>
@@ -262,6 +324,8 @@
       <data key="v_avgPts">49</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/60.png?lm=1517249279</data>
       <data key="v_clubMV">191</data>
+      <data key="v_lon">7.829817</data>
+      <data key="v_lat">48.0213778</data>
     </node>
     <node id="n31">
       <data key="v_name">3</data>
@@ -270,6 +334,8 @@
       <data key="v_avgPts">33</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3.png?lm=1656580823</data>
       <data key="v_clubMV">136.85</data>
+      <data key="v_lon">6.8751167</data>
+      <data key="v_lat">50.9335055</data>
     </node>
     <node id="n32">
       <data key="v_name">39</data>
@@ -278,6 +344,8 @@
       <data key="v_avgPts">41.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/39.png?lm=1564748880</data>
       <data key="v_clubMV">138.7</data>
+      <data key="v_lon">8.2244738</data>
+      <data key="v_lat">49.9839451</data>
     </node>
     <node id="n33">
       <data key="v_name">533</data>
@@ -286,6 +354,8 @@
       <data key="v_avgPts">41.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/533.png?lm=1675591766</data>
       <data key="v_clubMV">246.1</data>
+      <data key="v_lon">8.8876414</data>
+      <data key="v_lat">49.2380604</data>
     </node>
     <node id="n34">
       <data key="v_name">18</data>
@@ -294,6 +364,8 @@
       <data key="v_avgPts">38</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/18.png?lm=1656585796</data>
       <data key="v_clubMV">149.3</data>
+      <data key="v_lon">6.3854094</data>
+      <data key="v_lat">51.174625</data>
     </node>
     <node id="n35">
       <data key="v_name">24</data>
@@ -302,6 +374,8 @@
       <data key="v_avgPts">49.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/24.png?lm=1700074979</data>
       <data key="v_clubMV">388.55</data>
+      <data key="v_lon">8.6454154</data>
+      <data key="v_lat">50.0686103</data>
     </node>
     <node id="n36">
       <data key="v_name">82</data>
@@ -310,6 +384,8 @@
       <data key="v_avgPts">37.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/82.png?lm=1503060755</data>
       <data key="v_clubMV">234.6</data>
+      <data key="v_lon">10.8038151</data>
+      <data key="v_lat">52.4326524</data>
     </node>
     <node id="n37">
       <data key="v_name">80</data>
@@ -318,6 +394,8 @@
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/80.png?lm=1656583090</data>
       <data key="v_clubMV">47.95</data>
+      <data key="v_lon">7.2365091</data>
+      <data key="v_lat">51.4900826</data>
     </node>
     <node id="n38">
       <data key="v_name">167</data>
@@ -326,6 +404,8 @@
       <data key="v_avgPts">37.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/167.png?lm=1656582897</data>
       <data key="v_clubMV">159.15</data>
+      <data key="v_lon">10.885879</data>
+      <data key="v_lat">48.3231179</data>
     </node>
     <node id="n39">
       <data key="v_name">79</data>
@@ -334,6 +414,8 @@
       <data key="v_avgPts">53</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/79.png?lm=1680587427</data>
       <data key="v_clubMV">383.1</data>
+      <data key="v_lon">9.2320857</data>
+      <data key="v_lat">48.7922487</data>
     </node>
     <node id="n40">
       <data key="v_name">44</data>
@@ -342,6 +424,8 @@
       <data key="v_avgPts">29</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/44.png?lm=1656580875</data>
       <data key="v_clubMV">62.63</data>
+      <data key="v_lon">13.2398144</data>
+      <data key="v_lat">52.5145846</data>
     </node>
     <node id="n41">
       <data key="v_name">33</data>
@@ -350,6 +434,8 @@
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/33.png?lm=1656580846</data>
       <data key="v_clubMV">45.23</data>
+      <data key="v_lon">7.0676001</data>
+      <data key="v_lat">51.5545938</data>
     </node>
     <node id="n42">
       <data key="v_name">86</data>
@@ -358,6 +444,8 @@
       <data key="v_avgPts">39.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/86.png?lm=1403082298</data>
       <data key="v_clubMV">176.3</data>
+      <data key="v_lon">8.8376718</data>
+      <data key="v_lat">53.0664479</data>
     </node>
     <node id="n43">
       <data key="v_name">2036</data>
@@ -366,6 +454,8 @@
       <data key="v_avgPts">30</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2036.png?lm=1685457789</data>
       <data key="v_clubMV">64.05</data>
+      <data key="v_lon">10.1392963</data>
+      <data key="v_lat">48.6685245</data>
     </node>
     <node id="n44">
       <data key="v_name">105</data>
@@ -374,6 +464,8 @@
       <data key="v_avgPts">17</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/105.png?lm=1501493517</data>
       <data key="v_clubMV">32.9</data>
+      <data key="v_lon">8.6724145</data>
+      <data key="v_lat">49.85771</data>
     </node>
     <node id="n45">
       <data key="v_name">35</data>
@@ -382,6 +474,8 @@
       <data key="v_avgPts">28.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/35.png?lm=1521036360</data>
       <data key="v_clubMV">69.65</data>
+      <data key="v_lon">9.9677842</data>
+      <data key="v_lat">53.5545567</data>
     </node>
     <node id="n46">
       <data key="v_name">269</data>
@@ -390,6 +484,8 @@
       <data key="v_avgPts">25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/269.png?lm=1740400529</data>
       <data key="v_clubMV">32.6</data>
+      <data key="v_lon">10.1237559</data>
+      <data key="v_lat">54.3492088</data>
     </node>
     <node id="n47">
       <data key="v_name">41</data>
@@ -398,6 +494,8 @@
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/41.png?lm=1597319274</data>
       <data key="v_clubMV">168.78</data>
+      <data key="v_lon">9.8987056</data>
+      <data key="v_lat">53.5871535</data>
     </node>
     <node id="n48">
       <data key="v_name">583</data>
@@ -406,6 +504,8 @@
       <data key="v_avgPts">77</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/583_1522053508.png?lm=1522053508</data>
       <data key="v_clubMV">1210</data>
+      <data key="v_lon">2.2530693</data>
+      <data key="v_lat">48.8413634</data>
     </node>
     <node id="n49">
       <data key="v_name">244</data>
@@ -414,6 +514,8 @@
       <data key="v_avgPts">60</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/244_1775674950.png?lm=1775674950</data>
       <data key="v_clubMV">386</data>
+      <data key="v_lon">5.3959117</data>
+      <data key="v_lat">43.2698363</data>
     </node>
     <node id="n50">
       <data key="v_name">162</data>
@@ -422,6 +524,8 @@
       <data key="v_avgPts">60.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/162.png?lm=1654781919</data>
       <data key="v_clubMV">391.55</data>
+      <data key="v_lon">2.9935829</data>
+      <data key="v_lat">42.7544209</data>
     </node>
     <node id="n51">
       <data key="v_name">273</data>
@@ -430,6 +534,8 @@
       <data key="v_avgPts">51.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/273.png?lm=1691503972</data>
       <data key="v_clubMV">242.2</data>
+      <data key="v_lon">-1.7126543</data>
+      <data key="v_lat">48.1075655</data>
     </node>
     <node id="n52">
       <data key="v_name">417</data>
@@ -438,6 +544,8 @@
       <data key="v_avgPts">50.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/417.png?lm=1408779490</data>
       <data key="v_clubMV">169.1</data>
+      <data key="v_lon">7.1926033</data>
+      <data key="v_lat">43.7051477</data>
     </node>
     <node id="n53">
       <data key="v_name">667</data>
@@ -446,6 +554,8 @@
       <data key="v_avgPts">44.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/667.png?lm=1664991833</data>
       <data key="v_clubMV">361.75</data>
+      <data key="v_lon">7.7551221</data>
+      <data key="v_lat">48.5599481</data>
     </node>
     <node id="n54">
       <data key="v_name">826</data>
@@ -454,6 +564,8 @@
       <data key="v_avgPts">61.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/826.png?lm=1595457059</data>
       <data key="v_clubMV">193.55</data>
+      <data key="v_lon">2.8149878</data>
+      <data key="v_lat">50.43281</data>
     </node>
     <node id="n55">
       <data key="v_name">1041</data>
@@ -462,6 +574,8 @@
       <data key="v_avgPts">55.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1041.png?lm=1656668172</data>
       <data key="v_clubMV">282.55</data>
+      <data key="v_lon">4.9820543</data>
+      <data key="v_lat">45.7653624</data>
     </node>
     <node id="n56">
       <data key="v_name">995</data>
@@ -470,6 +584,8 @@
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/995.png?lm=1581355747</data>
       <data key="v_clubMV">110.85</data>
+      <data key="v_lon">-1.5247552</data>
+      <data key="v_lat">47.256005</data>
     </node>
     <node id="n57">
       <data key="v_name">1082</data>
@@ -478,6 +594,8 @@
       <data key="v_avgPts">59.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1082.png?lm=1529521041</data>
       <data key="v_clubMV">271.5</data>
+      <data key="v_lon">3.130508</data>
+      <data key="v_lat">50.6119044</data>
     </node>
     <node id="n58">
       <data key="v_name">3911</data>
@@ -486,6 +604,8 @@
       <data key="v_avgPts">47.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3911_1768834526.png?lm=1768834526</data>
       <data key="v_clubMV">88.4</data>
+      <data key="v_lon">-4.4613605</data>
+      <data key="v_lat">48.4030423</data>
     </node>
     <node id="n59">
       <data key="v_name">1421</data>
@@ -494,6 +614,8 @@
       <data key="v_avgPts">43.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1421.png?lm=1592601839</data>
       <data key="v_clubMV">93.9</data>
+      <data key="v_lon">4.0247869</data>
+      <data key="v_lat">49.2470758</data>
     </node>
     <node id="n60">
       <data key="v_name">969</data>
@@ -502,6 +624,8 @@
       <data key="v_avgPts">35.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/969_1720105245.png?lm=1720105247</data>
       <data key="v_clubMV">22.8</data>
+      <data key="v_lon">3.8120898</data>
+      <data key="v_lat">43.622022</data>
     </node>
     <node id="n61">
       <data key="v_name">1420</data>
@@ -510,6 +634,8 @@
       <data key="v_avgPts">29</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1420.png?lm=1687525425</data>
       <data key="v_clubMV">72.7</data>
+      <data key="v_lon">-0.5306948</data>
+      <data key="v_lat">47.4605516</data>
     </node>
     <node id="n62">
       <data key="v_name">1095</data>
@@ -518,6 +644,8 @@
       <data key="v_avgPts">24</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1095.png?lm=1599945497</data>
       <data key="v_clubMV">40.78</data>
+      <data key="v_lon">4.0985168</data>
+      <data key="v_lat">48.3075171</data>
     </node>
     <node id="n63">
       <data key="v_name">1158</data>
@@ -526,6 +654,8 @@
       <data key="v_avgPts">40.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1158.png?lm=1406642498</data>
       <data key="v_clubMV">101.25</data>
+      <data key="v_lon">-3.3695412</data>
+      <data key="v_lat">47.7488021</data>
     </node>
     <node id="n64">
       <data key="v_name">3524</data>
@@ -534,6 +664,8 @@
       <data key="v_avgPts">42</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3524.png?lm=1625739356</data>
       <data key="v_clubMV">17.2</data>
+      <data key="v_lon">3.1215004</data>
+      <data key="v_lat">45.8158775</data>
     </node>
     <node id="n65">
       <data key="v_name">415</data>
@@ -542,6 +674,8 @@
       <data key="v_avgPts">42.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/415.png?lm=1740065124</data>
       <data key="v_clubMV">146.05</data>
+      <data key="v_lon">2.1663973</data>
+      <data key="v_lat">43.9232675</data>
     </node>
     <node id="n66">
       <data key="v_name">1147</data>
@@ -550,6 +684,8 @@
       <data key="v_avgPts">26</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1147.png?lm=1408538965</data>
       <data key="v_clubMV">1.23</data>
+      <data key="v_lon">8.776793</data>
+      <data key="v_lat">41.9308308</data>
     </node>
     <node id="n67">
       <data key="v_name">290</data>
@@ -558,6 +694,8 @@
       <data key="v_avgPts">33.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/290.png?lm=1635851977</data>
       <data key="v_clubMV">78.55</data>
+      <data key="v_lon">3.5673</data>
+      <data key="v_lat">47.7981</data>
     </node>
     <node id="n68">
       <data key="v_name">738</data>
@@ -566,6 +704,8 @@
       <data key="v_avgPts">31.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/738.png?lm=1408780648</data>
       <data key="v_clubMV">73</data>
+      <data key="v_lon">0.1694637</data>
+      <data key="v_lat">49.4987513</data>
     </node>
     <node id="n69">
       <data key="v_name">347</data>
@@ -574,6 +714,8 @@
       <data key="v_avgPts">22</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/347.png?lm=1625391843</data>
       <data key="v_clubMV">62.9</data>
+      <data key="v_lon">6.1596049</data>
+      <data key="v_lat">49.109636</data>
     </node>
     <node id="n70">
       <data key="v_name">618</data>
@@ -582,6 +724,8 @@
       <data key="v_avgPts">30</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/618.png?lm=1658260152</data>
       <data key="v_clubMV">82.65</data>
+      <data key="v_lon">4.3900932</data>
+      <data key="v_lat">45.4607567</data>
     </node>
     <node id="n71">
       <data key="v_name">10004</data>
@@ -590,6 +734,8 @@
       <data key="v_avgPts">35</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/10004.png?lm=1411995262</data>
       <data key="v_clubMV">134.35</data>
+      <data key="v_lon">2.2529615</data>
+      <data key="v_lat">48.8433187</data>
     </node>
     <node id="n72">
       <data key="v_name">418</data>
@@ -598,6 +744,8 @@
       <data key="v_avgPts">81.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474</data>
       <data key="v_clubMV">1340</data>
+      <data key="v_lon">-3.6907254</data>
+      <data key="v_lat">40.4523667</data>
     </node>
     <node id="n73">
       <data key="v_name">131</data>
@@ -606,6 +754,8 @@
       <data key="v_avgPts">85</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548</data>
       <data key="v_clubMV">1170</data>
+      <data key="v_lon">2.1228182</data>
+      <data key="v_lat">41.3808806</data>
     </node>
     <node id="n74">
       <data key="v_name">368</data>
@@ -614,6 +764,8 @@
       <data key="v_avgPts">41.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593</data>
       <data key="v_clubMV">140.4</data>
+      <data key="v_lon">-5.9711558</data>
+      <data key="v_lat">37.3846337</data>
     </node>
     <node id="n75">
       <data key="v_name">13</data>
@@ -622,6 +774,8 @@
       <data key="v_avgPts">71.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/13_1719403662.png?lm=1719403663</data>
       <data key="v_clubMV">587</data>
+      <data key="v_lon">-3.5997153</data>
+      <data key="v_lat">40.436053</data>
     </node>
     <node id="n76">
       <data key="v_name">681</data>
@@ -630,6 +784,8 @@
       <data key="v_avgPts">54.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530</data>
       <data key="v_clubMV">272.7</data>
+      <data key="v_lon">-2.0712454</data>
+      <data key="v_lat">43.1620711</data>
     </node>
     <node id="n77">
       <data key="v_name">150</data>
@@ -638,6 +794,8 @@
       <data key="v_avgPts">55.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526</data>
       <data key="v_clubMV">248.8</data>
+      <data key="v_lon">-6.1154391</data>
+      <data key="v_lat">36.6664406</data>
     </node>
     <node id="n78">
       <data key="v_name">1050</data>
@@ -646,6 +804,8 @@
       <data key="v_avgPts">62</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310</data>
       <data key="v_clubMV">286.3</data>
+      <data key="v_lon">-2.194202</data>
+      <data key="v_lat">42.4986363</data>
     </node>
     <node id="n79">
       <data key="v_name">621</data>
@@ -654,6 +814,8 @@
       <data key="v_avgPts">56.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038</data>
       <data key="v_clubMV">283</data>
+      <data key="v_lon">-2.9493915</data>
+      <data key="v_lat">43.264204</data>
     </node>
     <node id="n80">
       <data key="v_name">1049</data>
@@ -662,6 +824,8 @@
       <data key="v_avgPts">43</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320</data>
       <data key="v_clubMV">163.6</data>
+      <data key="v_lon">-0.3581566</data>
+      <data key="v_lat">39.4745279</data>
     </node>
     <node id="n81">
       <data key="v_name">331</data>
@@ -670,6 +834,8 @@
       <data key="v_avgPts">47.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/331.png?lm=1686070937</data>
       <data key="v_clubMV">100.8</data>
+      <data key="v_lon">-1.6371311</data>
+      <data key="v_lat">42.7966625</data>
     </node>
     <node id="n82">
       <data key="v_name">1531</data>
@@ -678,6 +844,8 @@
       <data key="v_avgPts">28.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1531.png?lm=1421955260</data>
       <data key="v_clubMV">85.1</data>
+      <data key="v_lon">-0.6646431</data>
+      <data key="v_lat">38.2645026</data>
     </node>
     <node id="n83">
       <data key="v_name">940</data>
@@ -686,6 +854,8 @@
       <data key="v_avgPts">45.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406</data>
       <data key="v_clubMV">172.9</data>
+      <data key="v_lon">-8.7396656</data>
+      <data key="v_lat">42.2117659</data>
     </node>
     <node id="n84">
       <data key="v_name">714</data>
@@ -694,6 +864,8 @@
       <data key="v_avgPts">39</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/714.png?lm=1406966369</data>
       <data key="v_clubMV">124.2</data>
+      <data key="v_lon">2.0764584</data>
+      <data key="v_lat">41.3478567</data>
     </node>
     <node id="n85">
       <data key="v_name">367</data>
@@ -702,6 +874,8 @@
       <data key="v_avgPts">43.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/367.png?lm=1653488445</data>
       <data key="v_clubMV">107.3</data>
+      <data key="v_lon">-3.6587366</data>
+      <data key="v_lat">40.3917566</data>
     </node>
     <node id="n86">
       <data key="v_name">3709</data>
@@ -710,6 +884,8 @@
       <data key="v_avgPts">42.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116</data>
       <data key="v_clubMV">82.9</data>
+      <data key="v_lon">-3.7149326</data>
+      <data key="v_lat">40.3257247</data>
     </node>
     <node id="n87">
       <data key="v_name">237</data>
@@ -718,6 +894,8 @@
       <data key="v_avgPts">43</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/237.png?lm=1407484750</data>
       <data key="v_clubMV">89</data>
+      <data key="v_lon">2.6301158</data>
+      <data key="v_lat">39.589935</data>
     </node>
     <node id="n88">
       <data key="v_name">2687</data>
@@ -726,6 +904,8 @@
       <data key="v_avgPts">37.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2687.png?lm=1683542431</data>
       <data key="v_clubMV">22.9</data>
+      <data key="v_lon">-6.2902</data>
+      <data key="v_lat">36.5271</data>
     </node>
     <node id="n89">
       <data key="v_name">3302</data>
@@ -734,6 +914,8 @@
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3302.png?lm=1736335439</data>
       <data key="v_clubMV">50.3</data>
+      <data key="v_lon">-2.3645</data>
+      <data key="v_lat">36.8482</data>
     </node>
     <node id="n90">
       <data key="v_name">366</data>
@@ -742,6 +924,8 @@
       <data key="v_avgPts">28</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/366.png?lm=1720163563</data>
       <data key="v_clubMV">31.7</data>
+      <data key="v_lon">-3.7067621</data>
+      <data key="v_lat">40.4349325</data>
     </node>
     <node id="n91">
       <data key="v_name">12321</data>
@@ -750,6 +934,8 @@
       <data key="v_avgPts">52.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718</data>
       <data key="v_clubMV">153.2</data>
+      <data key="v_lon">2.8265099</data>
+      <data key="v_lat">41.9669314</data>
     </node>
     <node id="n92">
       <data key="v_name">16795</data>
@@ -758,6 +944,8 @@
       <data key="v_avgPts">21</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/16795.png?lm=1724157697</data>
       <data key="v_clubMV">22.8</data>
+      <data key="v_lon">-3.5961628</data>
+      <data key="v_lat">37.1511441</data>
     </node>
     <node id="n93">
       <data key="v_name">472</data>
@@ -766,6 +954,8 @@
       <data key="v_avgPts">36</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/472.png?lm=1407484865</data>
       <data key="v_clubMV">45</data>
+      <data key="v_lon">-15.4567247</data>
+      <data key="v_lat">28.1002336</data>
     </node>
     <node id="n94">
       <data key="v_name">1108</data>
@@ -774,6 +964,8 @@
       <data key="v_avgPts">40.3333333333333</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1108.png?lm=1596131395</data>
       <data key="v_clubMV">66.9</data>
+      <data key="v_lon">-2.6869483</data>
+      <data key="v_lat">42.8372866</data>
     </node>
     <node id="n95">
       <data key="v_name">1244</data>
@@ -782,6 +974,8 @@
       <data key="v_avgPts">40</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1244.png?lm=1764600019</data>
       <data key="v_clubMV">21.3</data>
+      <data key="v_lon">-3.760643</data>
+      <data key="v_lat">40.3405622</data>
     </node>
     <node id="n96">
       <data key="v_name">3368</data>
@@ -790,6 +984,8 @@
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062</data>
       <data key="v_clubMV">86.7</data>
+      <data key="v_lon">-0.3765452</data>
+      <data key="v_lat">39.4746223</data>
     </node>
     <node id="n97">
       <data key="v_name">2497</data>
@@ -798,6 +994,8 @@
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2497.png?lm=1417193316</data>
       <data key="v_clubMV">63.3</data>
+      <data key="v_lon">-5.8703316</data>
+      <data key="v_lat">43.3608716</data>
     </node>
     <node id="n98">
       <data key="v_name">5</data>
@@ -806,6 +1004,8 @@
       <data key="v_avgPts">67.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/5.png?lm=1605166627</data>
       <data key="v_clubMV">483.5</data>
+      <data key="v_lon">16.2310536</data>
+      <data key="v_lat">40.7499514</data>
     </node>
     <node id="n99">
       <data key="v_name">46</data>
@@ -814,6 +1014,8 @@
       <data key="v_avgPts">80.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/46.png?lm=1618900989</data>
       <data key="v_clubMV">636.3</data>
+      <data key="v_lon">16.2310536</data>
+      <data key="v_lat">40.7499514</data>
     </node>
     <node id="n100">
       <data key="v_name">6195</data>
@@ -822,6 +1024,8 @@
       <data key="v_avgPts">72.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/6195_1720450885.png?lm=1720450885</data>
       <data key="v_clubMV">417.3</data>
+      <data key="v_lon">14.1917953</data>
+      <data key="v_lat">40.827969</data>
     </node>
     <node id="n101">
       <data key="v_name">506</data>
@@ -830,6 +1034,8 @@
       <data key="v_avgPts">65.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/506.png?lm=1626441487</data>
       <data key="v_clubMV">544.2</data>
+      <data key="v_lon">7.6421338</data>
+      <data key="v_lat">45.1095759</data>
     </node>
     <node id="n102">
       <data key="v_name">398</data>
@@ -838,6 +1044,8 @@
       <data key="v_avgPts">61</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/398.png?lm=1601537785</data>
       <data key="v_clubMV">217.55</data>
+      <data key="v_lon">12.4547705</data>
+      <data key="v_lat">41.9339424</data>
     </node>
     <node id="n103">
       <data key="v_name">12</data>
@@ -846,6 +1054,8 @@
       <data key="v_avgPts">63</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/12.png?lm=1751979202</data>
       <data key="v_clubMV">454.5</data>
+      <data key="v_lon">12.4547705</data>
+      <data key="v_lat">41.9339424</data>
     </node>
     <node id="n104">
       <data key="v_name">430</data>
@@ -854,6 +1064,8 @@
       <data key="v_avgPts">54</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/430.png?lm=1722844765</data>
       <data key="v_clubMV">243.85</data>
+      <data key="v_lon">11.2828191</data>
+      <data key="v_lat">43.7808838</data>
     </node>
     <node id="n105">
       <data key="v_name">800</data>
@@ -862,6 +1074,8 @@
       <data key="v_avgPts">65</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/800.png?lm=1438547428</data>
       <data key="v_clubMV">403.1</data>
+      <data key="v_lon">9.6808327</data>
+      <data key="v_lat">45.7092068</data>
     </node>
     <node id="n106">
       <data key="v_name">276</data>
@@ -870,6 +1084,8 @@
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/276.png?lm=1617228746</data>
       <data key="v_clubMV">93.53</data>
+      <data key="v_lon">10.9674348</data>
+      <data key="v_lat">45.4353328</data>
     </node>
     <node id="n107">
       <data key="v_name">416</data>
@@ -878,6 +1094,8 @@
       <data key="v_avgPts">47.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/416.png?lm=1438548174</data>
       <data key="v_clubMV">134.9</data>
+      <data key="v_lon">7.6523627</data>
+      <data key="v_lat">45.0417211</data>
     </node>
     <node id="n108">
       <data key="v_name">6574</data>
@@ -886,6 +1104,8 @@
       <data key="v_avgPts">39</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/6574.png?lm=1755894334</data>
       <data key="v_clubMV">184.1</data>
+      <data key="v_lon">10.6497308</data>
+      <data key="v_lat">44.7145456</data>
     </node>
     <node id="n109">
       <data key="v_name">410</data>
@@ -894,6 +1114,8 @@
       <data key="v_avgPts">42.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/410.png?lm=1688982584</data>
       <data key="v_clubMV">152.55</data>
+      <data key="v_lon">13.1997411</data>
+      <data key="v_lat">46.081402</data>
     </node>
     <node id="n110">
       <data key="v_name">1025</data>
@@ -902,6 +1124,8 @@
       <data key="v_avgPts">58</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1025.png?lm=1626441324</data>
       <data key="v_clubMV">275</data>
+      <data key="v_lon">11.3099971</data>
+      <data key="v_lat">44.492317</data>
     </node>
     <node id="n111">
       <data key="v_name">749</data>
@@ -910,6 +1134,8 @@
       <data key="v_avgPts">36.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/749.png?lm=1626441481</data>
       <data key="v_clubMV">34.55</data>
+      <data key="v_lon">10.9547274</data>
+      <data key="v_lat">43.7265476</data>
     </node>
     <node id="n112">
       <data key="v_name">1038</data>
@@ -918,6 +1144,8 @@
       <data key="v_avgPts">19</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1038.png?lm=1520934353</data>
       <data key="v_clubMV">41.55</data>
+      <data key="v_lon">13.2429135</data>
+      <data key="v_lat">46.0612126</data>
     </node>
     <node id="n113">
       <data key="v_name">3522</data>
@@ -926,6 +1154,8 @@
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3522_1688719361.png?lm=1688719361</data>
       <data key="v_clubMV">35.4</data>
+      <data key="v_lon">12.5721467</data>
+      <data key="v_lat">46.6276592</data>
     </node>
     <node id="n114">
       <data key="v_name">380</data>
@@ -934,6 +1164,8 @@
       <data key="v_avgPts">29.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/380.png?lm=1601390035</data>
       <data key="v_clubMV">8.8</data>
+      <data key="v_lon">14.8235898</data>
+      <data key="v_lat">40.6455616</data>
     </node>
     <node id="n115">
       <data key="v_name">1005</data>
@@ -942,6 +1174,8 @@
       <data key="v_avgPts">33.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1005.png?lm=1689169528</data>
       <data key="v_clubMV">93.48</data>
+      <data key="v_lon">18.2089177</data>
+      <data key="v_lat">40.3651144</data>
     </node>
     <node id="n116">
       <data key="v_name">2239</data>
@@ -950,6 +1184,8 @@
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2239.png?lm=1501770762</data>
       <data key="v_clubMV">72.2</data>
+      <data key="v_lon">10.0350005</data>
+      <data key="v_lat">45.140044</data>
     </node>
     <node id="n117">
       <data key="v_name">2919</data>
@@ -958,6 +1194,8 @@
       <data key="v_avgPts">38.3333333333333</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2919.png?lm=1562072734</data>
       <data key="v_clubMV">46.55</data>
+      <data key="v_lon">9.3079276</data>
+      <data key="v_lat">45.583112</data>
     </node>
     <node id="n118">
       <data key="v_name">8970</data>
@@ -966,6 +1204,8 @@
       <data key="v_avgPts">35</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/8970.png?lm=1438547543</data>
       <data key="v_clubMV">40.8</data>
+      <data key="v_lon">13.3217978</data>
+      <data key="v_lat">41.6340108</data>
     </node>
     <node id="n119">
       <data key="v_name">252</data>
@@ -974,6 +1214,8 @@
       <data key="v_avgPts">42.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/252.png?lm=1655305880</data>
       <data key="v_clubMV">150.6</data>
+      <data key="v_lon">13.2429135</data>
+      <data key="v_lat">46.0612126</data>
     </node>
     <node id="n120">
       <data key="v_name">1390</data>
@@ -982,6 +1224,8 @@
       <data key="v_avgPts">35</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1390.png?lm=1626441409</data>
       <data key="v_clubMV">144.9</data>
+      <data key="v_lon">9.1374283</data>
+      <data key="v_lat">39.1991949</data>
     </node>
     <node id="n121">
       <data key="v_name">130</data>
@@ -990,6 +1234,8 @@
       <data key="v_avgPts">36</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/130.png?lm=1530945992</data>
       <data key="v_clubMV">172.5</data>
+      <data key="v_lon">10.3383727</data>
+      <data key="v_lat">44.7947582</data>
     </node>
     <node id="n122">
       <data key="v_name">1047</data>
@@ -998,6 +1244,8 @@
       <data key="v_avgPts">53.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1047.png?lm=1565704078</data>
       <data key="v_clubMV">351.7</data>
+      <data key="v_lon">9.0723243</data>
+      <data key="v_lat">45.8138295</data>
     </node>
     <node id="n123">
       <data key="v_name">607</data>
@@ -1006,6 +1254,8 @@
       <data key="v_avgPts">29</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/607.png?lm=1657392944</data>
       <data key="v_clubMV">64.83</data>
+      <data key="v_lon">12.3556755</data>
+      <data key="v_lat">45.4296908</data>
     </node>
     <node id="n124">
       <data key="v_name">4172</data>
@@ -1014,6 +1264,8 @@
       <data key="v_avgPts">18</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/4172.png?lm=1693294828</data>
       <data key="v_clubMV">106.2</data>
+      <data key="v_lon">10.4001188</data>
+      <data key="v_lat">43.7252802</data>
     </node>
     <node id="n125">
       <data key="v_name">720</data>
@@ -1022,6 +1274,8 @@
       <data key="v_avgPts">76</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/720.png?lm=1486310161</data>
       <data key="v_clubMV">426.9</data>
+      <data key="v_lon">-8.5837492</data>
+      <data key="v_lat">41.1618235</data>
     </node>
     <node id="n126">
       <data key="v_name">336</data>
@@ -1030,6 +1284,8 @@
       <data key="v_avgPts">79.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/336.png?lm=1621513752</data>
       <data key="v_clubMV">466</data>
+      <data key="v_lon">-9.1607831</data>
+      <data key="v_lat">38.7612164</data>
     </node>
     <node id="n127">
       <data key="v_name">294</data>
@@ -1038,6 +1294,8 @@
       <data key="v_avgPts">79</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/294.png?lm=1535908439</data>
       <data key="v_clubMV">364.5</data>
+      <data key="v_lon">-9.1846899</data>
+      <data key="v_lat">38.7526893</data>
     </node>
     <node id="n128">
       <data key="v_name">1075</data>
@@ -1046,6 +1304,8 @@
       <data key="v_avgPts">66</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1075.png?lm=1432893871</data>
       <data key="v_clubMV">154.9</data>
+      <data key="v_lon">-8.4298677</data>
+      <data key="v_lat">41.5624996</data>
     </node>
     <node id="n129">
       <data key="v_name">2424</data>
@@ -1054,6 +1314,8 @@
       <data key="v_avgPts">38.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2424.png?lm=1624283300</data>
       <data key="v_clubMV">36.35</data>
+      <data key="v_lon">-8.6230864</data>
+      <data key="v_lat">41.5510958</data>
     </node>
     <node id="n130">
       <data key="v_name">2420</data>
@@ -1062,6 +1324,8 @@
       <data key="v_avgPts">51.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2420.png?lm=1432894021</data>
       <data key="v_clubMV">36</data>
+      <data key="v_lon">-8.3009921</data>
+      <data key="v_lat">41.4458485</data>
     </node>
     <node id="n131">
       <data key="v_name">2423</data>
@@ -1070,6 +1334,8 @@
       <data key="v_avgPts">35.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2423_1718909310.png?lm=1718909310</data>
       <data key="v_clubMV">33</data>
+      <data key="v_lon">-25.6228123</data>
+      <data key="v_lat">37.7639923</data>
     </node>
     <node id="n132">
       <data key="v_name">3329</data>
@@ -1078,6 +1344,8 @@
       <data key="v_avgPts">45</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3329.png?lm=1737563329</data>
       <data key="v_clubMV">71.9</data>
+      <data key="v_lon">-8.5224396</data>
+      <data key="v_lat">41.4012527</data>
     </node>
     <node id="n133">
       <data key="v_name">1465</data>
@@ -1086,6 +1354,8 @@
       <data key="v_avgPts">37.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1465.png?lm=1534340702</data>
       <data key="v_clubMV">45.7</data>
+      <data key="v_lon">-9.4064087</data>
+      <data key="v_lat">38.7158618</data>
     </node>
     <node id="n134">
       <data key="v_name">1301</data>
@@ -1094,6 +1364,8 @@
       <data key="v_avgPts">26</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1301.png?lm=1656600130</data>
       <data key="v_clubMV">10.13</data>
+      <data key="v_lon">-16.9283862</data>
+      <data key="v_lat">32.6455744</data>
     </node>
     <node id="n135">
       <data key="v_name">2995</data>
@@ -1102,6 +1374,8 @@
       <data key="v_avgPts">23</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2995.png?lm=1578477741</data>
       <data key="v_clubMV">6.05</data>
+      <data key="v_lon">-8.3853824</data>
+      <data key="v_lat">41.2714775</data>
     </node>
     <node id="n136">
       <data key="v_name">2503</data>
@@ -1110,6 +1384,8 @@
       <data key="v_avgPts">33.3333333333333</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2503.png?lm=1480959207</data>
       <data key="v_clubMV">100</data>
+      <data key="v_lon">-8.6426013</data>
+      <data key="v_lat">41.1621978</data>
     </node>
     <node id="n137">
       <data key="v_name">7378</data>
@@ -1118,6 +1394,8 @@
       <data key="v_avgPts">33</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/7378.png?lm=1665922885</data>
       <data key="v_clubMV">5.3</data>
+      <data key="v_lon">-8.5398305</data>
+      <data key="v_lat">37.1356935</data>
     </node>
     <node id="n138">
       <data key="v_name">6912</data>
@@ -1126,6 +1404,8 @@
       <data key="v_avgPts">33</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/6912.png?lm=1700587516</data>
       <data key="v_clubMV">10.9</data>
+      <data key="v_lon">-8.3061</data>
+      <data key="v_lat">41.5853</data>
     </node>
     <node id="n139">
       <data key="v_name">8024</data>
@@ -1134,6 +1414,8 @@
       <data key="v_avgPts">42.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/8024.png?lm=1530096604</data>
       <data key="v_clubMV">26.15</data>
+      <data key="v_lon">-8.2504309</data>
+      <data key="v_lat">40.9322921</data>
     </node>
     <node id="n140">
       <data key="v_name">2425</data>
@@ -1142,6 +1424,8 @@
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2425.png?lm=1516613968</data>
       <data key="v_clubMV">33.65</data>
+      <data key="v_lon">-8.7401457</data>
+      <data key="v_lat">41.3627496</data>
     </node>
     <node id="n141">
       <data key="v_name">3268</data>
@@ -1150,6 +1434,8 @@
       <data key="v_avgPts">37.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3268.png?lm=1742856850</data>
       <data key="v_clubMV">24.8</data>
+      <data key="v_lon">-8.9344835</data>
+      <data key="v_lat">39.3445766</data>
     </node>
     <node id="n142">
       <data key="v_name">3325</data>
@@ -1158,6 +1444,8 @@
       <data key="v_avgPts">34.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3325.png?lm=1416392512</data>
       <data key="v_clubMV">8.88</data>
+      <data key="v_lon">-7.4716</data>
+      <data key="v_lat">41.7391</data>
     </node>
     <node id="n143">
       <data key="v_name">979</data>
@@ -1166,6 +1454,8 @@
       <data key="v_avgPts">43.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/979.png?lm=1552324606</data>
       <data key="v_clubMV">29.95</data>
+      <data key="v_lon">-8.436</data>
+      <data key="v_lat">41.836</data>
     </node>
     <node id="n144">
       <data key="v_name">4294</data>
@@ -1174,6 +1464,8 @@
       <data key="v_avgPts">32</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/4294.png?lm=1550150253</data>
       <data key="v_clubMV">9.55</data>
+      <data key="v_lon">-7.9282722</data>
+      <data key="v_lat">37.0228852</data>
     </node>
     <node id="n145">
       <data key="v_name">2431</data>
@@ -1182,6 +1474,8 @@
       <data key="v_avgPts">30</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2431.png?lm=1743687810</data>
       <data key="v_clubMV">21</data>
+      <data key="v_lon">-9.2280007</data>
+      <data key="v_lat">38.7521563</data>
     </node>
     <node id="n146">
       <data key="v_name">110302</data>
@@ -1190,6 +1484,8 @@
       <data key="v_avgPts">19.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/110302.png?lm=1698968034</data>
       <data key="v_clubMV">11.55</data>
+      <data key="v_lon">-8.4117039</data>
+      <data key="v_lat">41.3667575</data>
     </node>
     <node id="n147">
       <data key="v_name">982</data>
@@ -1198,6 +1494,8 @@
       <data key="v_avgPts">29.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/982.png?lm=1549988602</data>
       <data key="v_clubMV">22.48</data>
+      <data key="v_lon">-16.8835636</data>
+      <data key="v_lat">32.6706231</data>
     </node>
     <node id="n148">
       <data key="v_name">7179</data>
@@ -1206,6 +1504,8 @@
       <data key="v_avgPts">21</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/7179.png?lm=1506427804</data>
       <data key="v_clubMV">24.15</data>
+      <data key="v_lon">-8.0827943</data>
+      <data key="v_lat">40.5119994</data>
     </node>
     <node id="n149">
       <data key="v_name">2521</data>
@@ -1214,6 +1514,8 @@
       <data key="v_avgPts">35</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2521.png?lm=1468133408</data>
       <data key="v_clubMV">33.55</data>
+      <data key="v_lon">-9.0317</data>
+      <data key="v_lat">38.8721</data>
     </node>
     <node id="n150">
       <data key="v_name">449</data>
@@ -1222,6 +1524,8 @@
       <data key="v_avgPts">59.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/449.png?lm=1759324895</data>
       <data key="v_clubMV">114.5</data>
+      <data key="v_lon">39.6453902</data>
+      <data key="v_lat">40.9986861</data>
     </node>
     <node id="n151">
       <data key="v_name">36</data>
@@ -1230,6 +1534,8 @@
       <data key="v_avgPts">82.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/36.png?lm=1753429185</data>
       <data key="v_clubMV">247.8</data>
+      <data key="v_lon">29.0378</data>
+      <data key="v_lat">40.9893</data>
     </node>
     <node id="n152">
       <data key="v_name">2293</data>
@@ -1238,6 +1544,8 @@
       <data key="v_avgPts">43</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2293.png?lm=1753430360</data>
       <data key="v_clubMV">38.35</data>
+      <data key="v_lon">32.4880729</data>
+      <data key="v_lat">37.946107</data>
     </node>
     <node id="n153">
       <data key="v_name">6890</data>
@@ -1246,6 +1554,8 @@
       <data key="v_avgPts">56</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/6890.png?lm=1753429032</data>
       <data key="v_clubMV">72.1</data>
+      <data key="v_lon">28.8093852</data>
+      <data key="v_lat">41.1228067</data>
     </node>
     <node id="n154">
       <data key="v_name">11282</data>
@@ -1254,6 +1564,8 @@
       <data key="v_avgPts">42.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/11282.png?lm=1753428907</data>
       <data key="v_clubMV">30.85</data>
+      <data key="v_lon">32.0077</data>
+      <data key="v_lat">36.5438</data>
     </node>
     <node id="n155">
       <data key="v_name">114</data>
@@ -1262,6 +1574,8 @@
       <data key="v_avgPts">62.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/114_1741080845.png?lm=1741080846</data>
       <data key="v_clubMV">185.1</data>
+      <data key="v_lon">29.0097</data>
+      <data key="v_lat">41.039</data>
     </node>
     <node id="n156">
       <data key="v_name">589</data>
@@ -1270,6 +1584,8 @@
       <data key="v_avgPts">40.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/589.png?lm=1753428974</data>
       <data key="v_clubMV">22.4</data>
+      <data key="v_lon">30.6684452</data>
+      <data key="v_lat">36.8881601</data>
     </node>
     <node id="n157">
       <data key="v_name">6646</data>
@@ -1278,6 +1594,8 @@
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/6646.png?lm=1753429757</data>
       <data key="v_clubMV">14.85</data>
+      <data key="v_lon">28.7656611</data>
+      <data key="v_lat">41.0744732</data>
     </node>
     <node id="n158">
       <data key="v_name">3840</data>
@@ -1286,6 +1604,8 @@
       <data key="v_avgPts">38.3333333333333</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3840.png?lm=1753361832</data>
       <data key="v_clubMV">1.23</data>
+      <data key="v_lon">35.3750486</data>
+      <data key="v_lat">37.0634885</data>
     </node>
     <node id="n159">
       <data key="v_name">2381</data>
@@ -1294,6 +1614,8 @@
       <data key="v_avgPts">43.3333333333333</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2381.png?lm=1753360079</data>
       <data key="v_clubMV">12.1</data>
+      <data key="v_lon">36.9824988</data>
+      <data key="v_lat">39.7309093</data>
     </node>
     <node id="n160">
       <data key="v_name">10484</data>
@@ -1302,6 +1624,8 @@
       <data key="v_avgPts">43.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/10484.png?lm=1753430136</data>
       <data key="v_clubMV">27.75</data>
+      <data key="v_lon">28.9723833</data>
+      <data key="v_lat">41.0327948</data>
     </node>
     <node id="n161">
       <data key="v_name">7775</data>
@@ -1310,6 +1634,8 @@
       <data key="v_avgPts">30</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/7775.png?lm=1753359991</data>
       <data key="v_clubMV">3.32</data>
+      <data key="v_lon">36.1664</data>
+      <data key="v_lat">36.3526</data>
     </node>
     <node id="n162">
       <data key="v_name">141</data>
@@ -1318,6 +1644,8 @@
       <data key="v_avgPts">88.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/141.png?lm=1406739071</data>
       <data key="v_clubMV">344.75</data>
+      <data key="v_lon">28.7663</data>
+      <data key="v_lat">41.0765</data>
     </node>
     <node id="n163">
       <data key="v_name">3205</data>
@@ -1326,6 +1654,8 @@
       <data key="v_avgPts">39.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3205.png?lm=1753430186</data>
       <data key="v_clubMV">27.9</data>
+      <data key="v_lon">35.4224695</data>
+      <data key="v_lat">38.7372299</data>
     </node>
     <node id="n164">
       <data key="v_name">2832</data>
@@ -1334,6 +1664,8 @@
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2832.png?lm=1753429399</data>
       <data key="v_clubMV">30</data>
+      <data key="v_lon">37.3833</data>
+      <data key="v_lat">37.0662</data>
     </node>
     <node id="n165">
       <data key="v_name">11688</data>
@@ -1342,6 +1674,8 @@
       <data key="v_avgPts">40</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/11688.png?lm=1667476015</data>
       <data key="v_clubMV">1.23</data>
+      <data key="v_lon">38.3833</data>
+      <data key="v_lat">40.9167</data>
     </node>
     <node id="n166">
       <data key="v_name">868</data>
@@ -1350,6 +1684,8 @@
       <data key="v_avgPts">41</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/868.png?lm=1582635029</data>
       <data key="v_clubMV">2.09</data>
+      <data key="v_lon">32.6132207</data>
+      <data key="v_lat">39.979993</data>
     </node>
     <node id="n167">
       <data key="v_name">24245</data>
@@ -1358,6 +1694,8 @@
       <data key="v_avgPts">30</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/24245.png?lm=1753361257</data>
       <data key="v_clubMV">7.53</data>
+      <data key="v_lon">29.1247</data>
+      <data key="v_lat">41.0264</data>
     </node>
     <node id="n168">
       <data key="v_name">924</data>
@@ -1366,6 +1704,8 @@
       <data key="v_avgPts">28.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/924.png?lm=1753360188</data>
       <data key="v_clubMV">8.63</data>
+      <data key="v_lon">28.6611</data>
+      <data key="v_lat">41.0179</data>
     </node>
     <node id="n169">
       <data key="v_name">152</data>
@@ -1374,6 +1714,8 @@
       <data key="v_avgPts">48.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/152.png?lm=1753432411</data>
       <data key="v_clubMV">52.35</data>
+      <data key="v_lon">35.6692918</data>
+      <data key="v_lat">40.9680489</data>
     </node>
     <node id="n170">
       <data key="v_name">126</data>
@@ -1382,6 +1724,8 @@
       <data key="v_avgPts">45</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/126.png?lm=1753432348</data>
       <data key="v_clubMV">40</data>
+      <data key="v_lon">40.5725731</data>
+      <data key="v_lat">41.0420212</data>
     </node>
     <node id="n171">
       <data key="v_name">3209</data>
@@ -1390,6 +1734,8 @@
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3209.png?lm=1753361006</data>
       <data key="v_clubMV">9.28</data>
+      <data key="v_lon">29.2364</data>
+      <data key="v_lat">40.9029</data>
     </node>
     <node id="n172">
       <data key="v_name">7160</data>
@@ -1398,6 +1744,8 @@
       <data key="v_avgPts">37.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/7160.png?lm=1753429120</data>
       <data key="v_clubMV">13.75</data>
+      <data key="v_lon">28.9723833</data>
+      <data key="v_lat">41.0327948</data>
     </node>
     <node id="n173">
       <data key="v_name">1467</data>
@@ -1406,6 +1754,8 @@
       <data key="v_avgPts">48.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1467.png?lm=1753429550</data>
       <data key="v_clubMV">57.13</data>
+      <data key="v_lon">27.0764098</data>
+      <data key="v_lat">38.3967727</data>
     </node>
     <node id="n174">
       <data key="v_name">44006</data>
@@ -1414,6 +1764,8 @@
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/44006.png?lm=1753359590</data>
       <data key="v_clubMV">13.78</data>
+      <data key="v_lon">27.4317</data>
+      <data key="v_lat">37.0344</data>
     </node>
     <node id="n175">
       <data key="v_name">120</data>
@@ -1422,6 +1774,8 @@
       <data key="v_avgPts">35</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/120.png?lm=1753430297</data>
       <data key="v_clubMV">25.5</data>
+      <data key="v_lon">29.9273</data>
+      <data key="v_lat">40.7654</data>
     </node>
     <node id="n176">
       <data key="v_name">820</data>
@@ -1430,6 +1784,8 @@
       <data key="v_avgPts">25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/820.png?lm=1753429938</data>
       <data key="v_clubMV">27.25</data>
+      <data key="v_lon">32.6132207</data>
+      <data key="v_lat">39.979993</data>
     </node>
     <node id="n177">
       <data key="v_name">610</data>
@@ -1438,6 +1794,8 @@
       <data key="v_avgPts">63.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/610_1750407814.png?lm=1750407814</data>
       <data key="v_clubMV">187.15</data>
+      <data key="v_lon">4.9428431</data>
+      <data key="v_lat">52.314353</data>
     </node>
     <node id="n178">
       <data key="v_name">1090</data>
@@ -1446,6 +1804,8 @@
       <data key="v_avgPts">59.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1090.png?lm=1586848339</data>
       <data key="v_clubMV">165.88</data>
+      <data key="v_lon">4.7420619</data>
+      <data key="v_lat">52.6128273</data>
     </node>
     <node id="n179">
       <data key="v_name">133</data>
@@ -1454,6 +1814,8 @@
       <data key="v_avgPts">19</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/133.png?lm=1692824919</data>
       <data key="v_clubMV">10.35</data>
+      <data key="v_lon">5.7683631</data>
+      <data key="v_lat">53.2004763</data>
     </node>
     <node id="n180">
       <data key="v_name">1283</data>
@@ -1462,6 +1824,8 @@
       <data key="v_avgPts">28</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1283_1750407474.png?lm=1750407475</data>
       <data key="v_clubMV">7.75</data>
+      <data key="v_lon">6.9457298</data>
+      <data key="v_lat">52.7746518</data>
     </node>
     <node id="n181">
       <data key="v_name">798</data>
@@ -1470,6 +1834,8 @@
       <data key="v_avgPts">29.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/798.png?lm=1626701001</data>
       <data key="v_clubMV">15.3</data>
+      <data key="v_lon">4.5204412</data>
+      <data key="v_lat">51.9170026</data>
     </node>
     <node id="n182">
       <data key="v_name">234</data>
@@ -1478,6 +1844,8 @@
       <data key="v_avgPts">72.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/234_1722422152.png?lm=1722422152</data>
       <data key="v_clubMV">214.43</data>
+      <data key="v_lon">4.523</data>
+      <data key="v_lat">51.8942</data>
     </node>
     <node id="n183">
       <data key="v_name">385</data>
@@ -1486,6 +1854,8 @@
       <data key="v_avgPts">37.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/385.png?lm=1610789891</data>
       <data key="v_clubMV">19.73</data>
+      <data key="v_lon">5.8433379</data>
+      <data key="v_lat">50.9923045</data>
     </node>
     <node id="n184">
       <data key="v_name">1435</data>
@@ -1494,6 +1864,8 @@
       <data key="v_avgPts">43.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1435.png?lm=1540316767</data>
       <data key="v_clubMV">30.08</data>
+      <data key="v_lon">6.1727116</data>
+      <data key="v_lat">52.260396</data>
     </node>
     <node id="n185">
       <data key="v_name">202</data>
@@ -1502,6 +1874,8 @@
       <data key="v_avgPts">33</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/202.png?lm=1657052745</data>
       <data key="v_clubMV">34</data>
+      <data key="v_lon">6.591465</data>
+      <data key="v_lat">53.2062038</data>
     </node>
     <node id="n186">
       <data key="v_name">306</data>
@@ -1510,6 +1884,8 @@
       <data key="v_avgPts">42.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/306.png?lm=1655978084</data>
       <data key="v_clubMV">42.48</data>
+      <data key="v_lon">5.9361675</data>
+      <data key="v_lat">52.9586734</data>
     </node>
     <node id="n187">
       <data key="v_name">467</data>
@@ -1518,6 +1894,8 @@
       <data key="v_avgPts">47.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/467.png?lm=1460302949</data>
       <data key="v_clubMV">53.5</data>
+      <data key="v_lon">5.8371565</data>
+      <data key="v_lat">51.8224848</data>
     </node>
     <node id="n188">
       <data key="v_name">383</data>
@@ -1526,6 +1904,8 @@
       <data key="v_avgPts">79.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/383.png?lm=1682925949</data>
       <data key="v_clubMV">283.6</data>
+      <data key="v_lon">5.4674257</data>
+      <data key="v_lat">51.4417077</data>
     </node>
     <node id="n189">
       <data key="v_name">235</data>
@@ -1534,6 +1914,8 @@
       <data key="v_avgPts">31.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/235.png?lm=1435505083</data>
       <data key="v_clubMV">8.18</data>
+      <data key="v_lon">5.0888329</data>
+      <data key="v_lat">51.686587</data>
     </node>
     <node id="n190">
       <data key="v_name">468</data>
@@ -1542,6 +1924,8 @@
       <data key="v_avgPts">47.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/468.png?lm=1485262132</data>
       <data key="v_clubMV">29.15</data>
+      <data key="v_lon">4.4664</data>
+      <data key="v_lat">51.9225</data>
     </node>
     <node id="n191">
       <data key="v_name">317</data>
@@ -1550,6 +1934,8 @@
       <data key="v_avgPts">60</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/317.png?lm=1610789581</data>
       <data key="v_clubMV">74.25</data>
+      <data key="v_lon">6.8377597</data>
+      <data key="v_lat">52.2364432</data>
     </node>
     <node id="n192">
       <data key="v_name">200</data>
@@ -1558,6 +1944,8 @@
       <data key="v_avgPts">53</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/200.png?lm=1628450351</data>
       <data key="v_clubMV">80.6</data>
+      <data key="v_lon">5.1458709</data>
+      <data key="v_lat">52.078356</data>
     </node>
     <node id="n193">
       <data key="v_name">499</data>
@@ -1566,6 +1954,8 @@
       <data key="v_avgPts">23</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/499.png?lm=1679396090</data>
       <data key="v_clubMV">5.08</data>
+      <data key="v_lon">5.8928164</data>
+      <data key="v_lat">51.9626811</data>
     </node>
     <node id="n194">
       <data key="v_name">724</data>
@@ -1574,6 +1964,8 @@
       <data key="v_avgPts">27.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/724.png?lm=1407649576</data>
       <data key="v_clubMV">17.38</data>
+      <data key="v_lon">5.0662792</data>
+      <data key="v_lat">52.4943835</data>
     </node>
     <node id="n195">
       <data key="v_name">723</data>
@@ -1582,6 +1974,8 @@
       <data key="v_avgPts">28</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/723.png?lm=1588851577</data>
       <data key="v_clubMV">8.05</data>
+      <data key="v_lon">5.2404731</data>
+      <data key="v_lat">52.3944104</data>
     </node>
     <node id="n196">
       <data key="v_name">1304</data>
@@ -1590,6 +1984,8 @@
       <data key="v_avgPts">30</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1304.png?lm=1488213735</data>
       <data key="v_clubMV">14.4</data>
+      <data key="v_lon">6.6508289</data>
+      <data key="v_lat">52.3388329</data>
     </node>
     <node id="n197">
       <data key="v_name">1269</data>
@@ -1598,6 +1994,8 @@
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1269.png?lm=1610790473</data>
       <data key="v_clubMV">23.35</data>
+      <data key="v_lon">6.1209481</data>
+      <data key="v_lat">52.5169311</data>
     </node>
     <node id="n198">
       <data key="v_name">132</data>
@@ -1606,6 +2004,8 @@
       <data key="v_avgPts">29</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/132.png?lm=1667313213</data>
       <data key="v_clubMV">14.6</data>
+      <data key="v_lon">4.7503301</data>
+      <data key="v_lat">51.5947762</data>
     </node>
     <node id="n199">
       <data key="v_name">403</data>
@@ -1614,6 +2014,8 @@
       <data key="v_avgPts">26</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/403.png?lm=1686931031</data>
       <data key="v_clubMV">10.6</data>
+      <data key="v_lon">5.0668066</data>
+      <data key="v_lat">51.5426917</data>
     </node>
     <node id="n200">
       <data key="v_name">1434</data>
@@ -1622,6 +2024,8 @@
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1434.png?lm=1407649844</data>
       <data key="v_clubMV">11.3</data>
+      <data key="v_lon">4.6349286</data>
+      <data key="v_lat">52.4551776</data>
     </node>
     <node id="n201">
       <data key="v_name">2282</data>
@@ -1630,6 +2034,8 @@
       <data key="v_avgPts">58</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2282.png?lm=1716279106</data>
       <data key="v_clubMV">232.3</data>
+      <data key="v_lon">3.1805853</data>
+      <data key="v_lat">51.1933461</data>
     </node>
     <node id="n202">
       <data key="v_name">3948</data>
@@ -1638,6 +2044,8 @@
       <data key="v_avgPts">66.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3948.png?lm=1624390507</data>
       <data key="v_clubMV">122.5</data>
+      <data key="v_lon">4.3295082</data>
+      <data key="v_lat">50.8179295</data>
     </node>
     <node id="n203">
       <data key="v_name">1096</data>
@@ -1646,6 +2054,8 @@
       <data key="v_avgPts">51.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1096.png?lm=1623758865</data>
       <data key="v_clubMV">52.95</data>
+      <data key="v_lon">4.4717722</data>
+      <data key="v_lat">51.2325696</data>
     </node>
     <node id="n204">
       <data key="v_name">58</data>
@@ -1654,6 +2064,8 @@
       <data key="v_avgPts">51</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/58_1693390150.png?lm=1693390150</data>
       <data key="v_clubMV">98.75</data>
+      <data key="v_lon">4.2978564</data>
+      <data key="v_lat">50.8340203</data>
     </node>
     <node id="n205">
       <data key="v_name">157</data>
@@ -1662,6 +2074,8 @@
       <data key="v_avgPts">48.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/157_1715694862.png?lm=1715694862</data>
       <data key="v_clubMV">62.75</data>
+      <data key="v_lon">3.7325263</data>
+      <data key="v_lat">51.0160755</data>
     </node>
     <node id="n206">
       <data key="v_name">1184</data>
@@ -1670,6 +2084,8 @@
       <data key="v_avgPts">58</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1184.png?lm=1717666245</data>
       <data key="v_clubMV">138.65</data>
+      <data key="v_lon">5.5341924</data>
+      <data key="v_lat">51.0049645</data>
     </node>
     <node id="n207">
       <data key="v_name">354</data>
@@ -1678,6 +2094,8 @@
       <data key="v_avgPts">42</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/354.png?lm=1693258903</data>
       <data key="v_clubMV">40.45</data>
+      <data key="v_lon">5.9879212</data>
+      <data key="v_lat">51.3296763</data>
     </node>
     <node id="n208">
       <data key="v_name">172</data>
@@ -1686,6 +2104,8 @@
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/172.png?lm=1448474590</data>
       <data key="v_clubMV">41.5</data>
+      <data key="v_lon">4.4537327</data>
+      <data key="v_lat">50.4146057</data>
     </node>
     <node id="n209">
       <data key="v_name">475</data>
@@ -1694,6 +2114,8 @@
       <data key="v_avgPts">42.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/475.png?lm=1448474474</data>
       <data key="v_clubMV">43.8</data>
+      <data key="v_lon">5.1661364</data>
+      <data key="v_lat">50.8134975</data>
     </node>
     <node id="n210">
       <data key="v_name">520</data>
@@ -1702,6 +2124,8 @@
       <data key="v_avgPts">40</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/520.png?lm=1713864588</data>
       <data key="v_clubMV">40.15</data>
+      <data key="v_lon">3.1805853</data>
+      <data key="v_lat">51.1933461</data>
     </node>
     <node id="n211">
       <data key="v_name">2727</data>
@@ -1710,6 +2134,8 @@
       <data key="v_avgPts">37</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2727.png?lm=1723796027</data>
       <data key="v_clubMV">29.65</data>
+      <data key="v_lon">4.6942994</data>
+      <data key="v_lat">50.8684105</data>
     </node>
     <node id="n212">
       <data key="v_name">2861</data>
@@ -1718,6 +2144,8 @@
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2861.png?lm=1625231721</data>
       <data key="v_clubMV">1.23</data>
+      <data key="v_lon">2.88</data>
+      <data key="v_lat">51.22</data>
     </node>
     <node id="n213">
       <data key="v_name">601</data>
@@ -1726,6 +2154,8 @@
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/601.png?lm=1534260191</data>
       <data key="v_clubMV">12.65</data>
+      <data key="v_lon">3.2490817</data>
+      <data key="v_lat">50.8302631</data>
     </node>
     <node id="n214">
       <data key="v_name">3057</data>
@@ -1734,6 +2164,8 @@
       <data key="v_avgPts">42</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3057_1688981764.png?lm=1688981764</data>
       <data key="v_clubMV">46.1</data>
+      <data key="v_lon">5.5435116</data>
+      <data key="v_lat">50.6098727</data>
     </node>
     <node id="n215">
       <data key="v_name">1245</data>
@@ -1742,6 +2174,8 @@
       <data key="v_avgPts">26</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1245.png?lm=1464260524</data>
       <data key="v_clubMV">11.7</data>
+      <data key="v_lon">6.0453565</data>
+      <data key="v_lat">50.6260974</data>
     </node>
     <node id="n216">
       <data key="v_name">3508</data>
@@ -1750,6 +2184,8 @@
       <data key="v_avgPts">29.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3508.png?lm=1420103130</data>
       <data key="v_clubMV">23.75</data>
+      <data key="v_lon">3.4290577</data>
+      <data key="v_lat">50.8830646</data>
     </node>
     <node id="n217">
       <data key="v_name">2715</data>
@@ -1758,6 +2194,8 @@
       <data key="v_avgPts">20</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2715.png?lm=1495287150</data>
       <data key="v_clubMV">5.65</data>
+      <data key="v_lon">5.4983</data>
+      <data key="v_lat">50.52</data>
     </node>
     <node id="n218">
       <data key="v_name">968</data>
@@ -1766,6 +2204,8 @@
       <data key="v_avgPts">39.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/968.png?lm=1715694370</data>
       <data key="v_clubMV">45.45</data>
+      <data key="v_lon">4.9167</data>
+      <data key="v_lat">51.0833</data>
     </node>
     <node id="n219">
       <data key="v_name">54189</data>
@@ -1774,6 +2214,8 @@
       <data key="v_avgPts">23</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/54189_1751545719.png?lm=1751545720</data>
       <data key="v_clubMV">9.3</data>
+      <data key="v_lon">4.3104985</data>
+      <data key="v_lat">50.8550714</data>
     </node>
     <node id="n220">
       <data key="v_name">9010</data>
@@ -1782,6 +2224,8 @@
       <data key="v_avgPts">25.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/9010.png?lm=1449921839</data>
       <data key="v_clubMV">19.2</data>
+      <data key="v_lon">4.05</data>
+      <data key="v_lat">50.8667</data>
     </node>
     <node id="n221">
       <data key="v_name">41274</data>
@@ -1790,6 +2234,8 @@
       <data key="v_avgPts">18</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/41274.png?lm=1568728391</data>
       <data key="v_clubMV">11.8</data>
+      <data key="v_lon">4.3820246</data>
+      <data key="v_lat">51.1850755</data>
     </node>
     <node id="n222">
       <data key="v_name">3901</data>
@@ -1798,6 +2244,8 @@
       <data key="v_avgPts">31</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3901.png?lm=1752058395</data>
       <data key="v_clubMV">16.1</data>
+      <data key="v_lon">4.2031671</data>
+      <data key="v_lat">50.4773727</data>
     </node>
     <node id="n223">
       <data key="v_name">964</data>
@@ -1806,6 +2254,8 @@
       <data key="v_avgPts">61.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/964_1486196005.png?lm=1486196005</data>
       <data key="v_clubMV">185.1</data>
+      <data key="v_lon">30.2210608</data>
+      <data key="v_lat">59.9723766</data>
     </node>
     <node id="n224">
       <data key="v_name">41231</data>
@@ -1814,6 +2264,8 @@
       <data key="v_avgPts">24.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/41231.png?lm=1549213557</data>
       <data key="v_clubMV">27.68</data>
+      <data key="v_lon">39.957</data>
+      <data key="v_lat">43.4019</data>
     </node>
     <node id="n225">
       <data key="v_name">121</data>
@@ -1822,6 +2274,8 @@
       <data key="v_avgPts">47.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/121.png?lm=1597937447</data>
       <data key="v_clubMV">111.1</data>
+      <data key="v_lon">37.5590922</data>
+      <data key="v_lat">55.7909476</data>
     </node>
     <node id="n226">
       <data key="v_name">16704</data>
@@ -1830,6 +2284,8 @@
       <data key="v_avgPts">56</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/16704.png?lm=1499524238</data>
       <data key="v_clubMV">117.5</data>
+      <data key="v_lon">38.9722</data>
+      <data key="v_lat">45.0514</data>
     </node>
     <node id="n227">
       <data key="v_name">2410</data>
@@ -1838,6 +2294,8 @@
       <data key="v_avgPts">51.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2410.png?lm=1409222667</data>
       <data key="v_clubMV">106.45</data>
+      <data key="v_lon">37.5166535</data>
+      <data key="v_lat">55.7913992</data>
     </node>
     <node id="n228">
       <data key="v_name">932</data>
@@ -1846,6 +2304,8 @@
       <data key="v_avgPts">49</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/932.png?lm=1486195738</data>
       <data key="v_clubMV">105.5</data>
+      <data key="v_lon">37.7412162</data>
+      <data key="v_lat">55.8035807</data>
     </node>
     <node id="n229">
       <data key="v_name">3725</data>
@@ -1854,6 +2314,8 @@
       <data key="v_avgPts">35.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3725.png?lm=1497737399</data>
       <data key="v_clubMV">28.9</data>
+      <data key="v_lon">45.7452586</data>
+      <data key="v_lat">43.3232052</data>
     </node>
     <node id="n230">
       <data key="v_name">2696</data>
@@ -1862,6 +2324,8 @@
       <data key="v_avgPts">31.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2696.png?lm=1658044381</data>
       <data key="v_clubMV">31.5</data>
+      <data key="v_lon">50.2375022</data>
+      <data key="v_lat">53.2780085</data>
     </node>
     <node id="n231">
       <data key="v_name">1083</data>
@@ -1870,6 +2334,8 @@
       <data key="v_avgPts">40.25</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1083.png?lm=1604130993</data>
       <data key="v_clubMV">37.95</data>
+      <data key="v_lon">39.7382824</data>
+      <data key="v_lat">47.2093548</data>
     </node>
     <node id="n232">
       <data key="v_name">232</data>
@@ -1878,6 +2344,8 @@
       <data key="v_avgPts">50.75</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/232.png?lm=1769954012</data>
       <data key="v_clubMV">125.9</data>
+      <data key="v_lon">37.4406099</data>
+      <data key="v_lat">55.8175885</data>
     </node>
     <node id="n233">
       <data key="v_name">49702</data>
@@ -1886,6 +2354,8 @@
       <data key="v_avgPts">27</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/49702_1657882864.png?lm=1657882864</data>
       <data key="v_clubMV">22.18</data>
+      <data key="v_lon">43.9625</data>
+      <data key="v_lat">56.3378</data>
     </node>
     <node id="n234">
       <data key="v_name">11127</data>
@@ -1894,6 +2364,8 @@
       <data key="v_avgPts">33</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/11127.png?lm=1500926160</data>
       <data key="v_clubMV">13.45</data>
+      <data key="v_lon">60.5933</data>
+      <data key="v_lat">56.8389</data>
     </node>
     <node id="n235">
       <data key="v_name">3719</data>
@@ -1902,6 +2374,8 @@
       <data key="v_avgPts">23.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/3719_1736070020.png?lm=1736070021</data>
       <data key="v_clubMV">1.23</data>
+      <data key="v_lon">37.4541815</data>
+      <data key="v_lat">55.8854007</data>
     </node>
     <node id="n236">
       <data key="v_name">1186</data>
@@ -1910,6 +2384,8 @@
       <data key="v_avgPts">13</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1186_1676011892.png?lm=1676011892</data>
       <data key="v_clubMV">12.5</data>
+      <data key="v_lon">37.5537673</data>
+      <data key="v_lat">55.7157445</data>
     </node>
     <node id="n237">
       <data key="v_name">1124</data>
@@ -1918,6 +2394,8 @@
       <data key="v_avgPts">26.6666666666667</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/1124.png?lm=1700892653</data>
       <data key="v_clubMV">11.3</data>
+      <data key="v_lon">61.3525967</data>
+      <data key="v_lat">55.1739568</data>
     </node>
     <node id="n238">
       <data key="v_name">14589</data>
@@ -1926,6 +2404,8 @@
       <data key="v_avgPts">29</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/14589_1738429366.png?lm=1738429366</data>
       <data key="v_clubMV">21.15</data>
+      <data key="v_lon">61.338787</data>
+      <data key="v_lat">55.3614769</data>
     </node>
     <node id="n239">
       <data key="v_name">2698</data>
@@ -1934,6 +2414,8 @@
       <data key="v_avgPts">40.3333333333333</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2698.png?lm=1561987986</data>
       <data key="v_clubMV">53</data>
+      <data key="v_lon">49.1604983</data>
+      <data key="v_lat">55.8211336</data>
     </node>
     <node id="n240">
       <data key="v_name">2741</data>
@@ -1942,6 +2424,8 @@
       <data key="v_avgPts">35</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/2741.png?lm=1673959895</data>
       <data key="v_clubMV">29.75</data>
+      <data key="v_lon">20.5128</data>
+      <data key="v_lat">54.7104</data>
     </node>
     <node id="n241">
       <data key="v_name">75231</data>
@@ -1950,6 +2434,8 @@
       <data key="v_avgPts">26</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/75231.png?lm=1625214744</data>
       <data key="v_clubMV">18.18</data>
+      <data key="v_lon">47.6196598</data>
+      <data key="v_lat">42.9067339</data>
     </node>
     <node id="n242">
       <data key="v_name">71985</data>
@@ -1958,6 +2444,8 @@
       <data key="v_avgPts">28.5</data>
       <data key="v_logo">https://tmssl.akamaized.net//images/wappen/tiny/71985.png?lm=1689321065</data>
       <data key="v_clubMV">26.6</data>
+      <data key="v_lon">50.2375022</data>
+      <data key="v_lat">53.2780085</data>
     </node>
     <edge source="n71" target="n170">
       <data key="e_total.fee">0</data>
